@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: McGill University & Mila
+subtitle: Hey there and a warm welcome!
 
 profile:
   align: right
