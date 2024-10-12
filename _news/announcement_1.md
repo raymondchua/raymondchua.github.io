@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-09-28 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Presented our recent work on Continual RL using Successor Features and Memory Mechanisms at <a href='https://meetings.cshl.edu/meetings.aspx?meet=NAISYS'>NAISys</a>, a NeuroAI conference at Cold Spring Harbour Laboratory at NY, USA. 
