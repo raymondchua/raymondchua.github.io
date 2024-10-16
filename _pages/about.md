@@ -28,6 +28,6 @@ understanding of these fundamental processes and create AI systems that could on
 with learning difficulties, making my work relevant not only to the scientific community but to society as a whole.
 
 Beyond academia, the Covid-19 pandemic rekindled my passion for sports, leading me to cross-country skiing, swimming, cycling, and 
-running—culminating in participating in triathlons. I have dedicated a page to share these adventures, offering a glimpse 
+running—culminating in participating in triathlons. I have dedicated a section under the projects page to share these adventures, offering a glimpse 
 into my life beyond academia. Free free to check it out, or visit my <a href='https://www.instagram.com/raymondrchua/'>Instagram</a> 
 to see what keeps me busy when I’m not at my computer!
