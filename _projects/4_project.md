@@ -2,7 +2,7 @@
 layout: page
 title: Biological and Artificial Reinforcement Learning Workshop @ NeurIPS 2019 & 2020
 description: Together with Feryal Behbahani, Sara Zannone, and others, I organized the Biological and Artificial Reinforcement Learning Workshop at NeurIPS 2019 and 2020.
-img: assets/img/barl_lunch.jpeg
+img: assets/img/barl_lunch.png
 redirect: https://sites.google.com/view/biologicalandartificialrl/home?authuser=0
 importance: 3
 category: community
