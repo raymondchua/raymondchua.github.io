@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Neural-AI Reading Group at Mila
-description: I created the Neural-AI Reading Group at Mila in Spring 2019 to foster a community of researchers interested in the intersection of neuroscience and artificial intelligence. 
+description: I created the Neural-AI Reading Group at Mila in Spring 2019 to foster a community of researchers interested in the intersection of neuroscience and artificial intelligence. I am still involved in the organization of the group till this day.
 img: assets/img/neural_ai_rg.png
 redirect: https://mila.quebec/en/news/neural-ai-a-student-run-reading-group-at-the-intersection-of-artificial-intelligence-and
 importance: 3
