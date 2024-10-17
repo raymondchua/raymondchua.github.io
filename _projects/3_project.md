@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Neural-AI Reading Group at Mila
+description: I created the Neural-AI Reading Group at Mila in Spring 2019 to foster a community of researchers interested in the intersection of neuroscience and artificial intelligence. 
+img: assets/img/neural_ai_rg.png
+redirect: https://mila.quebec/en/news/neural-ai-a-student-run-reading-group-at-the-intersection-of-artificial-intelligence-and
 importance: 3
-category: work
+category: community
 ---
 
 Every project has a beautiful feature showcase page.
