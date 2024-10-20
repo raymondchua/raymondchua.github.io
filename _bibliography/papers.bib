@@ -56,52 +56,42 @@
     abstract = {Learning to act in an environment to maximise rewards is among the brain’s key functions. This process has often been conceptualised within the framework of reinforcement learning, which has also gained prominence in machine learning and artificial intelligence (AI) as a way to optimise decision making. A common aspect of both biological and machine reinforcement learning is the reactivation of previously experienced episodes, referred to as replay. Replay is important for memory consolidation in biological neural networks and is key to stabilising learning in deep neural networks. Here, we review recent developments concerning the functional roles of replay in the fields of neuroscience and AI. Complementary progress suggests how replay might support learning processes, including generalisation and continual learning, affording opportunities to transfer knowledge across the two fields to advance the understanding of biological and artificial learning and memory.}
 }
 
-@article{chua2024cosyne,
-  abbr={COSYNE},
-  title     = {Learning Successor Features the Simple Way},
-  author    = {Raymond Chua, Arna Ghosh, Christos Kaplanis, Blake A. Richards and Doina Precup},
-  journal = {Computational and Systems Neuroscience (COSYNE) Abstracts},
-  year      = {2024},
-  address   = {Lisbon, Portugal},
-  note      = {Peer-reviewed abstract. Corresponding author: Raymond Chua.},
-  abstract  = {Biological agents like primates exhibit lifelong learning and adaptation, processes that are mirrored in the
-  continual Reinforcement Learning (RL) frameworks of computational models. In RL, Successor Representations (SRs) enable
-  RL agents to exhibit flexible behaviour by capturing the world's transition dynamics using discounted state visitations,
-  akin to how animals learn from experiences over time. Successor Features (SFs) build upon SRs by using artificial neural
-  networks to extract features, an area where SRs, with their discrete representations, fall short, especially in complex
-  environments. However, learning SFs from scratch risks representation collapse and poor performance due to missed key
-  features. To address this, two strategies have been explored: pre-training, unsuitable for continual RL scenarios due
-  to out-of-distribution challenges, and auxiliary losses, including constraints like reconstruction on basis features.
-  While the latter may reduce mismatches, it introduces inductive biases that hamper learning, as shown by our experiments.
-  To tackle this, we devised a novel method that streamlines learning SFs from pixels, using a simplified modification of
-  Temporal-difference (TD) loss, thus removing the necessity for pre-training and auxiliary losses. In single-task scenarios
-  within both 2D (Minigrid) and 3D (Miniworld) mazes, our model matches with the standard RL model: Deep Q Network (DQN).
-  More notably, in a continual RL setup involving two tasks, our model exhibits superior transferability when re-encountering
-  tasks, outperforming both DQN and other SF models trained with auxiliary constraints. Additionally, through dimensionality
-  reduction and geospatial color mapping, we visually observed that our SFs effectively capture the statistical structure
-  of the environments. Interestingly, our findings also hint at similarities between our computational model and hippocampal
-  predictive representations in dynamic contexts. This suggests new avenues for exploring diverse neural functionalities,
-  in particular, how reward-driven representations differ from others, thereby enriching our understanding of neural
-  adaptability and learning.},
+@article{chua2022cosyne,
+    abbr      = {COSYNE},
+    title     = {Continual Reinforcement Learning with Multi-Timescale Successor Representations},
+    author    = {Raymond Chua and Christos Kaplanis and Doina Precup},
+    journal = {Computational and Systems Neuroscience (COSYNE) Abstracts},
+    year      = {2022},
+    address   = {Lisbon, Portugal},
+    note      = {Peer-reviewed abstract. Corresponding author: Raymond Chua.},
+    abstract  = {Learning and memory consolidation in the brain occur over multiple timescales. Inspired by this observation,
+              it has been shown that catastrophic forgetting in reinforcement learning (RL) agents can be mitigated by consolidating Q-value
+              function parameters at multiple timescales. In this work, we combine this approach with successor representations, and show that by
+              consolidating successor representations and preferences learned over multiple timescales we can further mitigate catastrophic
+              forgetting. In particular, we show that agents trained with this approach rapidly recall previously rewarding sites in large environments,
+              whereas those trained without this decomposition and consolidation mechanism do not.  These results therefore contribute to our
+              understanding of the functional role of synaptic plasticity and memory systems operating at multiple timescales, and demonstrate
+              that RL can be improved by capturing features of biological memory with greater fidelity.},
 }
 
-@article{chua2022cosyne,
-  abbr={COSYNE},
-  title     = {Continual Reinforcement Learning with Multi-Timescale Successor Representations},
-  author    = {Raymond Chua and Christos Kaplanis and Doina Precup},
-  journal = {Computational and Systems Neuroscience (COSYNE) Abstracts},
-  year      = {2022},
-  address   = {Lisbon, Portugal},
-  note      = {Peer-reviewed abstract. Corresponding author: Raymond Chua.},
-  abstract  = {Learning and memory consolidation in the brain occur over multiple timescales. Inspired by this observation,
-  it has been shown that catastrophic forgetting in reinforcement learning (RL) agents can be mitigated by consolidating Q-value
-  function parameters at multiple timescales. In this work, we combine this approach with successor representations, and show that by
-  consolidating successor representations and preferences learned over multiple timescales we can further mitigate catastrophic
-  forgetting. In particular, we show that agents trained with this approach rapidly recall previously rewarding sites in large environments,
-  whereas those trained without this decomposition and consolidation mechanism do not.  These results therefore contribute to our
-  understanding of the functional role of synaptic plasticity and memory systems operating at multiple timescales, and demonstrate
-  that RL can be improved by capturing features of biological memory with greater fidelity.},
-}
+@inproceedings{chua2019replay,
+    abbr      = {COSYNE},
+    title     = {Efficient replay memory through sensory adaptation},
+    author    = {Raymond Chua and David Jia and Rui Ponte Costa},
+    booktitle = {Abstracts of the Computational and Systems Neuroscience (COSYNE) 2019},
+    year      = {2019},
+    address   = {Lisbon, Portugal},
+    note      = {Peer-reviewed abstract},
+    abstract  = {he cortex adapts quickly to repetitive stimuli. \textcolor{black}{Such adaptation suggests that dissimilar (or novel) experiences are more likely to be retained
+              in memory. In contrast, recent deep reinforcement learning models
+              rely on storing every single input into a hippocampal-like episodic
+              memory. Here, inspired by rapid forms of synaptic plasticity - a key neural basis of sensory adaptation - we propose a reinforcement learning algorithm in which only dissimilar enough inputs are stored into the
+              replay memory. We show that our method leads to a more efficient memory representation (reduced memory load), as similar inputs tend to be discarded. In addition, a model in which less experiences are discarded
+              as the agent gradually learns to explore its environment performs similarly to standard replay memory methods. This gradual change in adaptation is akin to the experimentally observed modifications of short-term
+              plasticity over development and learning, and suggests an important role for this phenomenon in systems-level learning. Overall, our work shows how systems models of memory and learning can shed light on
+              the function of synaptic plasticity and sensory adaptation.},
+
+
 
 
 
