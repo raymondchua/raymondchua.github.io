@@ -9,5 +9,3 @@ related_publications: true
 ---
 
 Code base for the paper: <a href='https://github.com/raymondchua/simple_successor_features'>https://github.com/raymondchua/simple_successor_features</a>
-
-{% endraw %}
