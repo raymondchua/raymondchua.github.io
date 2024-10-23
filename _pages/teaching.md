@@ -1,12 +1,22 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: teaching & talks
+description: My journey of sharing passion and knowledge through teaching and public engagement.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Invited Lectures and Talks
+1. Fall 2019- 2024 (except 2022-2024): Fall 2019-2024: Invited by Prof. Ross Otto to deliver a guest lecture in PSYC 513, focusing on reinforcement learning from fundamental concepts to planning techniques, tailored for psychology students.
+2. November 2023: Presented our work on "Continual Reinforcement Learning in Hippocampally-Inspired ML Models" at the Inter-Lab Symposium, a seminar engaging NeuroAI labs at McGill University, attended by both experimental and computational neuroscience researchers.
 
-Organize your courses by years, topics, or universities, however you like!
+# Teaching Assistant
+I have been a teaching assistant for the following courses at McGill University (listed by recent to past):
+1. COMP 551 - Applied Machine Learning (Fall 2021) taught by Prof. Siamak Ravanbakhsh.
+2.  <a href='https://linclab.mila.quebec/teaching/comp-549'>COMP 596 - Brain inspired AI (Winter 2020, 2021)</a> taught by Prof. Blake Richards. 
+3. COMP 250 - Introduction to Computer Science (Fall 2021) taught by Giulia Alberini.
+4. COMP 251 - Algorithms and Data Structures (Fall 2019) taught by Prof. Jerome Waldispuhl.
+5. COMP 424 - Artificial Intelligence (Winter 2019) taught by Prof. Jackie Cheung.
+
+
