@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching & talks
+title: Teaching & Talks
 description: My journey of sharing passion and knowledge through teaching and public engagement.
 nav: true
 nav_order: 6
