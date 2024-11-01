@@ -40,7 +40,7 @@ making them more suitable for high-dimensional inputs, such as pixels[3].
 
 Just like SRs, we can decompose the Q-value function into two distinct components:
 
-1. Successor Features ($$\psi$$):  These capture the expected occupancy of each state, essentially providing a predictive map on where the agent might end
+1. Successor Features ($\psi$):  These capture the expected occupancy of each state, essentially providing a predictive map on where the agent might end
 2. Task encoding $\boldsymbol{w}$: Combined with the basis features, this component helps predict the reward value of a given state.
 
 Mathematically, this means that for each state-action pair $(s,a)$ can be defined as the linear combination of $\psi(s,a)$ 
@@ -50,7 +50,7 @@ $$
 \begin{align}Q(s,a) = \psi(s,a)^{\intercal}\boldsymbol{w}\end{align}
 $$
 
-# **3. Challenges of learning Successor Features from Pixels**
+# 3. Challenges of learning Successor Features from Pixels**
 
 In SRs, the tabular basis representations are usually pre-defined, such as using information about the spatial location 
 of the agent to design this representation, which can also be adapted for basis features in SFs. However, in the scenario 
@@ -81,7 +81,7 @@ To address this issue of representation collapse, some previous approaches have 
 diversity, they often add significant computational complexity. In contrast, our approach—**Simple Successor Features (Simple SFs)**
 —achieves similar resilience against collapse without requiring these additional components, as we discuss next.
 
-# 4.  **Simple SFs: A New Approach**
+# 4.  Simple SFs: A New Approach
 
 A key insight in designing Simple SFs is that **the basis features $\phi$ should not collapse to a constant**, as this 
 would allow the loss in Eq. 2 to be minimized trivially, leading to representation collapse. To address this, rather 
