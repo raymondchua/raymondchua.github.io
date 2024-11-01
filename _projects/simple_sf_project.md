@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learning Successor Features the Simple Way
-description: with background image
+description: A simple and elegant approach to learning Successor Features for Continual Reinforcement Learning. 
 img: assets/img/12.jpg
 importance: 1
 category: work
