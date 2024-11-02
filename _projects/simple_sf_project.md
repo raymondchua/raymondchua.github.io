@@ -2,7 +2,7 @@
 layout: page
 title: Learning Successor Features the Simple Way
 description: A simple and elegant approach to learning Successor Features for Continual Reinforcement Learning. This 
-  project was accepted at NeurIPS 2024.
+  project was accepted at **NeurIPS 2024.**
 img: assets/img/12.jpg
 importance: 1
 category: work
@@ -193,7 +193,7 @@ other baseline models. Notably, while some approaches using reconstruction or or
 well-clustered SFs, these clusters do not always translate into effective policy learning.
 
 <figure style="text-align: center;">
-<img src="/../assets/img/project_simple_sf/sf_vis.png" alt="UMAP results" width="70%" height="70%">
+<img src="/../assets/img/project_simple_sf/sf_vis.png" alt="UMAP results" width="80%" height="80%">
 <figcaption style="text-align: left; margin-top: 10px;">Figure 6: UMAP visualisation of Successor Features in 2D space for
 the Center-Wall environment in both egocentric (partially observable) and allocentric (fully-observable) scenarios, as well
 as the 3D Four Rooms environment with egocentric observations. A geospatial color mapping is applied to the SFs to examine
@@ -229,6 +229,29 @@ demonstrates better learning efficiency compared to other baseline methods.
 the environment, using a predetermined <em>slippery</em> probability, resulting in actions being occasionally replaced with 
 alternative random actions.</figcaption>
 </figure>
+
+# 12. How efficient is our approach relative to other methods?
+To study the efficiency of our approach, we examined various metrics, such as time taken for the agent to learn a good 
+policy, the frames per second during backpropagation, and the overall time required for the agent to complete sequential 
+tasks. As expected, approaches that use additional objectives, such as reconstruction or orthogonality constraints on the 
+basis features $$\phi$$, require more computational resources. 
+
+<figure style="text-align: center;">
+<img src="/../assets/img/project_simple_sf/efficiency_analysis.png" alt="Efficiency analysis" width="70%" height="70%">
+<figcaption style="text-align: left; margin-top: 10px;">Figure 9: Analysis of the efficiency of our approach relative to
+other methods. </figcaption>
+</figure>
+
+# 13. Conclusion
+In this blogpost, we introduced Simple Successor Features (Simple SFs), a streamlined approach to learning SFs directly 
+from pixel observations without relying on complex auxiliary objectives such as reconstruction or orthogonality 
+constraints. By focusing on an efficient and straightforward design, Simple SFs successfully mitigate issues like 
+representation collapse and interference, achieving robust learning performance in dynamic, high-dimensional 
+environments. The simplicity of our approach not only reduces computational demands but also enhances scalability, 
+making it a practical choice for continual learning tasks. These results highlight the potential of Simple SFs as a 
+powerful yet efficient solution in environments where both adaptability and computational efficiency are critical.
+
+
 
 
 
