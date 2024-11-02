@@ -105,4 +105,7 @@ By optimizing these losses, we ensure that the task encoding $$\boldsymbol{w}$$ 
 while the SFs $$\psi$$ are learned in a stable way without collapse, allowing Simple SFs to learn effectively from high-dimensional 
 inputs, such as pixels.
 
+<img src="../assets/img/project_simple_sf/our_model.png" alt="Architecture for Simple SFs for discrete actions" width="10%"/>
+
+
 ![Architecture for Simple SFs for discrete actions](/../assets/img/project_simple_sf/our_model.png)
