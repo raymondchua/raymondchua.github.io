@@ -50,13 +50,13 @@ $$
 \begin{align}Q(s,a) = \psi(s,a)^{\intercal}\boldsymbol{w}\end{align}
 $$
 
-# 3. Challenges of learning Successor Features from Pixels**
+# 3. Challenges of learning Successor Features from Pixels
 
 In SRs, the tabular basis representations are usually pre-defined, such as using information about the spatial location 
 of the agent to design this representation, which can also be adapted for basis features in SFs. However, in the scenario 
 that the basis features have to be learned from  high-dimensional inputs, such as pixels, things start to become tricky. 
 
-The core learning mechanism for the basis features $\phi \in \mathbb{R}^{n}$ and SFs $\psi \in \mathbb{R}^n$ is the 
+The core learning mechanism for the basis features $$\phi \in \mathbb{R}^{n}$$ and SFs $$\psi \in \mathbb{R}^n$$ is the 
 **SF-Temporal Difference (SF-TD) learning rule**, which updates the successor features based on the agent’s transitions. 
 The SF-TD loss is defined as follows:
 
@@ -69,10 +69,10 @@ where action $$a \sim \pi(S_{t+1})$$ and $$\gamma \in [0,1]$$ is the discount fa
 $$(S_t, A_t, S_{t+1}, R_{t+1})$$, where $$S_t$$ is the state at time-step $$t$$, $$A_t$$ is the action at time-step $$t$$, 
 $$S_{t+1}$$ is the next state at time-step $$t+1$$ and $$R_{t+1}$$ is the reward at time-step $$t+1$$.
 
-When learning both the basis features $\phi$ and the SFs $\psi$ concurrently, this optimization can lead to representation 
+When learning both the basis features $$\phi$$ and the SFs $$\psi$$ concurrently, this optimization can lead to representation 
 collapse—where the learned features lose their discriminative characteristics across different states. This collapse occurs 
-because the loss function is minimized if both $\phi(\cdot)$ and $\psi(\cdot)$ converge to constants across all 
-states $S$. Specifically, this happens when $\phi(\cdot) = c_1$  and $\psi(\cdot) = c_2$ with $c_1 = (1-\gamma)c_2$. 
+because the loss function is minimized if both $$\phi(\cdot)$$ and $$\psi(\cdot)$$ converge to constants across all 
+states $$S$$. Specifically, this happens when $$\phi(\cdot) = c_1$$  and $$\psi(\cdot) = c_2$$ with $$c_1 = (1-\gamma)c_2$$. 
 
 For a more detailed proof, See section 3.4 in the paper. 
 
@@ -83,17 +83,17 @@ diversity, they often add significant computational complexity. In contrast, our
 
 # 4.  Simple SFs: A New Approach
 
-A key insight in designing Simple SFs is that **the basis features $\phi$ should not collapse to a constant**, as this 
+A key insight in designing Simple SFs is that **the basis features $$\phi$$ should not collapse to a constant**, as this 
 would allow the loss in Eq. 2 to be minimized trivially, leading to representation collapse. To address this, rather 
 than directly optimizing Eq. 2, we leverage the definition in Eq. 1 and instead optimize the following losses:
 
-1. *Reward prediction loss* guides the task encoding vector $\boldsymbol{w}$ to capture reward-relevant information from the environment. Here, the basis features $\phi$ are treats as a constant:
+1. *Reward prediction loss* guides the task encoding vector $$\boldsymbol{w}$$ to capture reward-relevant information from the environment. Here, the basis features $$\phi$$ are treats as a constant:
 
 $$
 \begin{align}L_{\boldsymbol{w}} = \frac{1}{2}\left \|  R_{t+1} - \overline{\phi}(S_{t+1})^\top \boldsymbol{w} \right \|^2\end{align}
 $$
 
-1. *Q-SF-TD loss* allows the SFs $\psi$  to be learned using a Q-learning like loss, treating the task encoding vector $\boldsymbol{w}$ as a constant learning only the SFs $\psi$:
+1. *Q-SF-TD loss* allows the SFs $$\psi$$  to be learned using a Q-learning like loss, treating the task encoding vector $$\boldsymbol{w}$$ as a constant learning only the SFs $$\psi$$:
 
  
 
@@ -101,9 +101,8 @@ $$
 \begin{align}L_{\psi} = \frac{1}{2}\left \| \hat{y} - \psi(S_t, A_t, \boldsymbol{w})^{\top}\boldsymbol{w} \right \|^2\end{align}
 $$
 
-By optimizing these losses, we ensure that the task encoding $\boldsymbol{w}$ effectively captures reward-relevant information, 
-while the SFs $\psi$ are learned in a stable way without collapse, allowing Simple SFs to learn effectively from high-dimensional 
+By optimizing these losses, we ensure that the task encoding $$\boldsymbol{w}$$ effectively captures reward-relevant information, 
+while the SFs $$\psi$$ are learned in a stable way without collapse, allowing Simple SFs to learn effectively from high-dimensional 
 inputs, such as pixels.
 
 ![Architecture for Simple SFs for discrete actions](/../assets/img/project_simple_sf/our_model.png)
-<img src="/../assets/img/project_simple_sf/our_model.png" alt="Architecture for Simple SFs for discrete actions" width="50%"/>
