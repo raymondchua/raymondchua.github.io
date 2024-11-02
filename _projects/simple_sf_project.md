@@ -105,7 +105,7 @@ By optimizing these losses, we ensure that the task encoding $$\boldsymbol{w}$$ 
 while the SFs $$\psi$$ are learned in a stable way without collapse, allowing Simple SFs to learn effectively from high-dimensional 
 inputs, such as pixels.
 
-<figure>
+<figure style="text-align: center;">
 <img src="/../assets/img/project_simple_sf/our_model_original.png" alt="Architecture for Simple SFs for discrete actions" width="50%" height="50%">
 <figcaption>Architecture for Simple SFs for discrete actions</figcaption>
 </figure>
@@ -122,7 +122,7 @@ constraints on their basis features $$\phi$$, such as reconstruction loss [5], o
 features[6]. We also compare with an agent that learns SFs using a pre-training regime which does not require rewards from 
 the environment [4].
 
-<figure>
+<figure style="text-align: center;">
 <img src="/../assets/img/project_simple_sf/environments.png" alt="Environments" width="70%" height="70%">
 <figcaption>Environments used in our study. (a-c): We examined both egocentric (partially observable) and allocentric 
 (fully observable) pixel observations in 2D Minigrid environments. Tasks included changes in reward locations 
