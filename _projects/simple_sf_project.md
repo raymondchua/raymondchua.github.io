@@ -217,7 +217,18 @@ that it is crucial for effective learning.<strong>(b):</strong> Without the stop
 fail to capture meaningful environment statistics after training. </figcaption>
 </figure>
 
+# 11. How robust are the Successor Features to stochasticity within the environment?
+To evaluate the robustness of SFs, we introduced stochasticity into the environment by applying a predetermined "slippery" 
+probability, where agents’ selected actions are occasionally replaced with alternative random actions. This study was 
+conducted across varying degrees of stochasticity (0.15, 0.3, and 0.45). Results show that our approach consistently 
+demonstrates better learning efficiency compared to other baseline methods.
 
+<figure style="text-align: center;">
+<img src="/../assets/img/project_simple_sf/slippery_four_rooms_results.png" alt="Stochasticity analysis" width="70%" height="70%">
+<figcaption style="text-align: left; margin-top: 10px;">Figure 8: Analysis of the robustness of SFs to stochasticity within
+the environment, using a predetermined <em>slippery</em> probability, resulting in actions being occasionally replaced with 
+alternative random actions.</figcaption>
+</figure>
 
 
 
