@@ -25,7 +25,7 @@ relationship between artificial intelligence and brain function. My work dives i
 and memory can be modeled to enhance AI's adaptability and efficiency. By integrating insights from neuroscience, I aim to 
 develop AI systems capable of continuous learning and adept at navigating unpredictable environments. 
 
-My expected graduation date is in **Fall 2025** and will be on the lookout for post-graduation opportunities in academia, industry, or research labs.
+My expected graduation date is in ***Fall 2025*** and will be on the lookout for post-graduation opportunities in academia, industry, or research labs.
 
 My personal connection to this work stems from having a family member with learning disabilities, which has deeply motivated me to 
 understand how our brains function and why some people face challenges in learning. Through my research, I hope to advance our 
