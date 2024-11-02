@@ -2,7 +2,7 @@
 layout: page
 title: Learning Successor Features the Simple Way
 description: A simple and elegant approach to learning Successor Features for Continual Reinforcement Learning. This 
-  project was accepted at **NeurIPS 2024.**
+  project was accepted at NeurIPS 2024.
 img: assets/img/12.jpg
 importance: 1
 category: work
