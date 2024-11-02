@@ -118,7 +118,7 @@ a continual learning setting. Agents are presented two tasks sequentially and th
 in the same sequence a second time.  All the studies were conducted exclusively using pixel observations as the primary 
 motivation of this work is to address representation collapse when learning from high-dimensional pixel inputs. 
 
-The baseline models that we compare our approach to are Double Deep Q-network agent [7], and agents learning SFs with 
+The baseline models that we compare our approach to are Double Deep Q-network agent [7] or DDPG (for continuous actions) [8], and agents learning SFs with 
 constraints on their basis features $$\phi$$, such as reconstruction loss [5], orthogonal loss [6], and unlearnable random 
 features[6]. We also compare with an agent that learns SFs using a pre-training regime which does not require rewards from 
 the environment [4].
@@ -266,6 +266,8 @@ powerful yet efficient solution in environments where both adaptability and comp
 [6] Touati, Ahmed, Jérémy Rapin, and Yann Ollivier. "Does zero-shot reinforcement learning exist?."*arXiv preprint arXiv:2209.14935*(2022).
 
 [7] Van Hasselt, Hado, Arthur Guez, and David Silver. "Deep reinforcement learning with double q-learning."*Proceedings of the AAAI conference on artificial intelligence*. Vol. 30. No. 1. 2016.
+
+[8] Lillicrap, T. P. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015).
 
 
 
