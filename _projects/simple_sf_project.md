@@ -8,6 +8,7 @@ importance: 1
 category: work
 ---
 Paper: <a href='https://arxiv.org/abs/2410.22133'>https://arxiv.org/abs/2410.22133</a>
+
 Code base: <a href='https://github.com/raymondchua/simple_successor_features'>https://github.com/raymondchua/simple_successor_features</a>
 
 # 1. Introduction
