@@ -40,11 +40,11 @@ making them more suitable for high-dimensional inputs, such as pixels[3].
 
 Just like SRs, we can decompose the Q-value function into two distinct components:
 
-1. Successor Features ($\psi$):  These capture the expected occupancy of each state, essentially providing a predictive map on where the agent might end
-2. Task encoding $\boldsymbol{w}$: Combined with the basis features, this component helps predict the reward value of a given state.
+1. Successor Features \( \psi \):  These capture the expected occupancy of each state, essentially providing a predictive map on where the agent might end
+2. Task encoding \(\boldsymbol{w}\): Combined with the basis features, this component helps predict the reward value of a given state.
 
-Mathematically, this means that for each state-action pair $(s,a)$ can be defined as the linear combination of $\psi(s,a)$ 
-and $\boldsymbol{w}$:
+Mathematically, this means that for each state-action pair \(s,a\) can be defined as the linear combination of \psi(s,a) 
+and \boldsymbol{w}:
 
 $$
 \begin{align}Q(s,a) = \psi(s,a)^{\intercal}\boldsymbol{w}\end{align}
