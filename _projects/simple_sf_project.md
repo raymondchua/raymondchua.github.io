@@ -224,7 +224,7 @@ conducted across varying degrees of stochasticity (0.15, 0.3, and 0.45). Results
 demonstrates better learning efficiency compared to other baseline methods.
 
 <figure style="text-align: center;">
-<img src="/../assets/img/project_simple_sf/slippery_four_rooms_results.png" alt="Stochasticity analysis" width="80%" height="80%">
+<img src="/../assets/img/project_simple_sf/slippery_four_rooms_results.png" alt="Stochasticity analysis" width="90%" height="90%">
 <figcaption style="text-align: left; margin-top: 10px;">Figure 8: Analysis of the robustness of SFs to stochasticity within
 the environment, using a predetermined <em>slippery</em> probability, resulting in actions being occasionally replaced with 
 alternative random actions.</figcaption>
