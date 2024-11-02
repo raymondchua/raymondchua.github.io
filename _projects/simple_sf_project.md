@@ -139,8 +139,8 @@ second task, or switch from Half-Cheetah to Walker while being rewarded for runn
 <figure style="text-align: center;">
 <img src="/../assets/img/project_simple_sf/minigrid_miniworld_total_returns.png" alt="2D and 3D Mazes results" width="80%" height="80%">
 <figcaption style="text-align: left; margin-top: 10px;">Figure 3: Continual Reinforcement Learning Evaluation with pixel 
-observations in 2D Minigrid and 3D Four Rooms environment. Replay buffer resets at each task transitions to simulate drastic 
-distribution shifts: Agents face two sequential tasks (Task 1 & Task 2), each repeated twice (Exposure 1 & Exposure 2). 
+observations in 2D Minigrid and 3D Four Rooms environment. <em>Replay buffer resets at each task transitions to simulate drastic 
+distribution shifts</em>: Agents face two sequential tasks (Task 1 & Task 2), each repeated twice (Exposure 1 & Exposure 2). 
 <strong>(a-c):</strong> The total cumulative returns accumulated during training. Overall, our agent, Simple SF (orange), shows notable 
 superiority and exhibited better transfer in later tasks over both DQN (blue) and agents with added constraints. Importantly, 
 constraints like reconstruction and orthogonality on basis features can impede learning.</figcaption>
@@ -150,8 +150,8 @@ constraints like reconstruction and orthogonality on basis features can impede l
 <figure style="text-align: center;">
 <img src="/../assets/img/project_simple_sf/mujoco_results.png" alt="Mujoco results" width="90%" height="90%">
 <figcaption style="text-align: left; margin-top: 10px;">Figure 4: Continual Reinforcement Learning results using pixel 
-observations in *Mujoco* environment across 5 random seeds. **Replay buffer resets at each task transitions to simulate drastic 
-distribution shifts.** we started with the half-cheetah domain in Task 1 where agents were rewarded for running forward. 
+observations in Mujoco environment across 5 random seeds. <em>Replay buffer resets at each task transitions to simulate drastic 
+distribution shifts.</em> we started with the half-cheetah domain in Task 1 where agents were rewarded for running forward. 
 We then introduced three different scenarios in Task 2: <strong>(a)</strong> agents were rewarded for running backwards, 
 <strong>(b)</strong> running faster, and, in the most drastic change, <strong>(c)</strong> switching from the half-cheetah 
 to the walker domain with a forward running task. To ensure comparability across these diverse scenarios, we normalized 
