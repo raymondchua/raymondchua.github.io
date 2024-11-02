@@ -107,7 +107,7 @@ inputs, such as pixels.
 
 <figure style="text-align: center;">
 <img src="/../assets/img/project_simple_sf/our_model_original.png" alt="Figure 1: Architecture for Simple SFs for discrete actions" width="50%" height="50%">
-<figcaption style="text-align: left; margin-top: 10px;">Architecture for Simple SFs for discrete actions</figcaption>
+<figcaption style="text-align: center; margin-top: 10px;">Architecture for Simple SFs for discrete actions</figcaption>
 </figure>
 
 # 5. Environments
@@ -124,12 +124,12 @@ the environment [4].
 
 <figure style="text-align: center;">
 <img src="/../assets/img/project_simple_sf/environments.png" alt="Environments" width="50%" height="50%">
-<figcaption style="text-align: left; margin-top: 10px;">Figure 2: Environments used in our study. (a-c): We examined both egocentric (partially observable) and allocentric 
+<figcaption style="text-align: left; margin-top: 10px;">Figure 2: Environments used in our study. **(a-c):** We examined both egocentric (partially observable) and allocentric 
 (fully observable) pixel observations in 2D Minigrid environments. Tasks included changes in reward locations 
-(Inverted-L Walls) and combined changes in rewards and transition dynamics (Center-Wall). (d-f): Egocentric observations 
+(Inverted-L Walls) and combined changes in rewards and transition dynamics (Center-Wall). **(d-f):** Egocentric observations 
 in a 3D Four Rooms environment, where the reward alternates between +1 for green and -1 for yellow in the first task, 
-and -1 for green and +1 for yellow in the second task. (e): A slippery variant of the 3D Four Rooms environment, where 
-selected agent actions are occasionally replaced by random actions based on a predefined slip probability. (g-h): Mujoco 
+and -1 for green and +1 for yellow in the second task. **(e):** A slippery variant of the 3D Four Rooms environment, where 
+selected agent actions are occasionally replaced by random actions based on a predefined slip probability. **(g-h):** Mujoco 
 continuous control tasks, where agents either run forward and then backward, run forward at an increased speed in the 
 second task, or switch from Half-Cheetah to Walker while being rewarded for running forward in the second task.</figcaption>
 </figure>
@@ -140,7 +140,7 @@ second task, or switch from Half-Cheetah to Walker while being rewarded for runn
 <figcaption style="text-align: left; margin-top: 10px;">Figure 3: Continual Reinforcement Learning Evaluation with pixel 
 observations in 2D Minigrid and 3D Four Rooms environment. Replay buffer resets at each task transitions to simulate drastic 
 distribution shifts: Agents face two sequential tasks (Task 1 & Task 2), each repeated twice (Exposure 1 & Exposure 2). 
-(a-c):The total cumulative returns accumulated during training. Overall, our agent, Simple SF (orange), shows notable 
+**(a-c):**The total cumulative returns accumulated during training. Overall, our agent, Simple SF (orange), shows notable 
 superiority and exhibited better transfer in later tasks over both DQN (blue) and agents with added constraints. Importantly, 
 constraints like reconstruction and orthogonality on basis features can impede learning.</figcaption>
 </figure>
@@ -149,14 +149,38 @@ constraints like reconstruction and orthogonality on basis features can impede l
 <figure style="text-align: center;">
 <img src="/../assets/img/project_simple_sf/mujoco_results.png" alt="Mujoco results" width="80%" height="80%">
 <figcaption style="text-align: left; margin-top: 10px;">Figure 4: Continual Reinforcement Learning results using pixel 
-observations in Mujoco environment across 5 random seeds. Replay buffer resets at each task transitions to simulate drastic 
-distribution shifts. we started with the half-cheetah domain in Task 1 where agents were rewarded for running forward. 
-We then introduced three different scenarios in Task 2: (a) agents were rewarded for running backwards, (b) running faster, 
-and, in the most drastic change, (c) switching from the half-cheetah to the walker domain with a forward running task. To 
+observations in *Mujoco* environment across 5 random seeds. **Replay buffer resets at each task transitions to simulate drastic 
+distribution shifts.** we started with the half-cheetah domain in Task 1 where agents were rewarded for running forward. 
+We then introduced three different scenarios in Task 2: **(a)** agents were rewarded for running backwards, **(b)** running faster, 
+and, in the most drastic change, **(c)** switching from the half-cheetah to the walker domain with a forward running task. To 
 ensure comparability across these diverse scenarios, we normalized the returns, considering that each task has different 
 maximum attainable returns per episode. We did not evaluate APS (Pre-train) here because it struggles in the Continual RL 
 setting, even in simpler environments such as the 2D Minigrid and 3D Miniworld.</figcaption>
 </figure>
+
+# 8. How effectively can Successor Features be decoded into Successor Representations? 
+Can our approach learn Successor Features that capture the environment's transition dynamics in the same way as Successor 
+Representations [2]? To investigate, we created a simple non-linear decoder (as shown in Figure (a) below) that takes the 
+learned SFs as inputs and compares the predicted outcomes with analytically computed SRs. The SRs are calculated using: 
+
+$$
+\begin{align}\text{SR} = (I - \gamma T)^{-1}\end{align}
+$$
+
+where $$T$$ is the transition probability matrix derived from the same policy used the SFs. We used mean squared error 
+(MSE) to measure the similarity between the SFs and the predicted SRs in both egocentric and allocentric observations, 
+using the Center-Wall environment after training the non-linear decoder. Results show that the SFs learned using our 
+approach consistently achieve lower MSE compared to baseline models (Figure (b and c) below).
+
+<figure style="text-align: center;">
+<img src="/../assets/img/project_simple_sf/decoder_model_and_results.png" alt="SR Decoder" width="70%" height="70%">
+<figcaption style="text-align: left; margin-top: 10px;">Figure 5: **(a)** Architecture of the non-linear decoder model.
+**(b-c)** Comparison of the Mean Squared Error (MSE) between the learned SFs and the predicted SRs in the Center-Wall
+environment. Our approach consistently achieves lower MSE compared to baseline models, indicating that our SFs capture
+the environment's transition dynamics effectively.</figcaption>
+</figure>
+
+
 
 
 
