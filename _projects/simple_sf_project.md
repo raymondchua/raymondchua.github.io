@@ -208,6 +208,15 @@ in ineffective learning. Additionally, we want the  task encoding vector $$\bold
 about the rewards, without being influenced by the basis features $$\phi.$$ To address this, we apply a stop-gradient 
 operator on the basis features during learning with the Reward prediction loss (Eq. 3).
 
+<figure style="text-align: center;">
+<img src="/../assets/img/project_simple_sf/stop_gradient_analysis.png" alt="Stop-gradient operator" width="70%" height="70%">
+<figcaption style="text-align: left; margin-top: 10px;">Figure 7: Analysis of the use of stop-gradient operator in the 
+Reward prediction loss. <strong>(a):</strong> We compare the performance of our approach with and without the stop-gradient operator in the 3D
+Four Rooms environment. The stop-gradient operator significantly improves the performance of our approach, indicating
+that it is crucial for effective learning.<strong>(b):</strong> Without the stop-gradient operator, the learned SFs
+fail to capture meaningful environment statistics after training. </figcaption>
+</figure>
+
 
 
 
