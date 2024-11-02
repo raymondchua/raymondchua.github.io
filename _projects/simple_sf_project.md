@@ -109,3 +109,27 @@ inputs, such as pixels.
 <img src="/../assets/img/project_simple_sf/our_model_original.png" alt="Architecture for Simple SFs for discrete actions" width="50%" height="50%">
 <figcaption>Architecture for Simple SFs for discrete actions</figcaption>
 </figure>
+
+# 5. Environments
+
+We evaluated our approach using 2D Minigrid, 3D Four Rooms environment and continuous control tasks in Mujoco, all within 
+a continual learning setting. Agents are presented two tasks sequentially and then are re-exposed the same set of tasks 
+in the same sequence a second time.  All the studies were conducted exclusively using pixel observations as the primary 
+motivation of this work is to address representation collapse when learning from high-dimensional pixel inputs. 
+
+The baseline models that we compare our approach to are Double Deep Q-network agent [7], and agents learning SFs with 
+constraints on their basis features $$\phi$$, such as reconstruction loss [5], orthogonal loss [6], and unlearnable random 
+features[6]. We also compare with an agent that learns SFs using a pre-training regime which does not require rewards from 
+the environment [4].
+
+<figure>
+<img src="/../assets/img/project_simple_sf/environments.png" alt="Environments" width="70%" height="70%">
+<figcaption>Environments used in our study. (a-c): We examined both egocentric (partially observable) and allocentric 
+(fully observable) pixel observations in 2D Minigrid environments. Tasks included changes in reward locations 
+(Inverted-L Walls) and combined changes in rewards and transition dynamics (Center-Wall). (d-f): Egocentric observations 
+in a 3D Four Rooms environment, where the reward alternates between +1 for green and -1 for yellow in the first task, 
+and -1 for green and +1 for yellow in the second task. (e): A slippery variant of the 3D Four Rooms environment, where 
+selected agent actions are occasionally replaced by random actions based on a predefined slip probability. (g-h): Mujoco 
+continuous control tasks, where agents either run forward and then backward, run forward at an increased speed in the 
+second task, or switch from Half-Cheetah to Walker while being rewarded for running forward in the second task.</figcaption>
+</figure>
