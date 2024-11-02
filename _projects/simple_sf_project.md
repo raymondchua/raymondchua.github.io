@@ -40,11 +40,11 @@ making them more suitable for high-dimensional inputs, such as pixels[3].
 
 Just like SRs, we can decompose the Q-value function into two distinct components:
 
-1. Successor Features $`( \psi )`$:  These capture the expected occupancy of each state, essentially providing a predictive map on where the agent might end
-2. Task encoding $`(\boldsymbol{w})`$: Combined with the basis features, this component helps predict the reward value of a given state.
+1. Successor Features $$( \psi )$$:  These capture the expected occupancy of each state, essentially providing a predictive map on where the agent might end
+2. Task encoding $$(\boldsymbol{w})$$: Combined with the basis features, this component helps predict the reward value of a given state.
 
-Mathematically, this means that for each state-action pair \(s,a\) can be defined as the linear combination of $`\psi(s,a)`$ 
-and $`\boldsymbol{w}`$:
+Mathematically, this means that for each state-action pair \(s,a\) can be defined as the linear combination of $$\psi(s,a)$$ 
+and $$\boldsymbol{w}$$:
 
 $$
 \begin{align}Q(s,a) = \psi(s,a)^{\intercal}\boldsymbol{w}\end{align}
@@ -65,9 +65,9 @@ $$
 \psi(S_{t},A_{t}, \boldsymbol{w}) \right \|^2\end{align}
 $$
 
-where action $a \sim \pi(S_{t+1})$ and $\gamma \in [0,1]$ is the discount factor. We consider each transition to be 
-$(S_t, A_t, S_{t+1}, R_{t+1})$, where $S_t$ is the state at time-step $t$, $A_t$ is the action at time-step $t$, 
-$S_{t+1}$ is the next state at time-step $t+1$ and $R_{t+1}$ 
+where action $$a \sim \pi(S_{t+1})$$ and $$\gamma \in [0,1]$$ is the discount factor. We consider each transition to be 
+$$(S_t, A_t, S_{t+1}, R_{t+1})$$, where $$S_t$$ is the state at time-step $$t$$, $$A_t$$ is the action at time-step $$t$$, 
+$$S_{t+1}$$ is the next state at time-step $$t+1$$ and $$R_{t+1}$$ is the reward at time-step $$t+1$$.
 
 When learning both the basis features $\phi$ and the SFs $\psi$ concurrently, this optimization can lead to representation 
 collapse—where the learned features lose their discriminative characteristics across different states. This collapse occurs 
