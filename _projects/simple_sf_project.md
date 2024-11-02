@@ -125,12 +125,12 @@ the environment [4].
 
 <figure style="text-align: center;">
 <img src="/../assets/img/project_simple_sf/environments.png" alt="Environments" width="50%" height="50%">
-<figcaption style="text-align: left; margin-top: 10px;">Figure 2: Environments used in our study. **(a-c):** We examined both egocentric (partially observable) and allocentric 
+<figcaption style="text-align: left; margin-top: 10px;">Figure 2: Environments used in our study. <strong>(a-c):</strong> We examined both egocentric (partially observable) and allocentric 
 (fully observable) pixel observations in 2D Minigrid environments. Tasks included changes in reward locations 
-(Inverted-L Walls) and combined changes in rewards and transition dynamics (Center-Wall). **(d-f):** Egocentric observations 
+(Inverted-L Walls) and combined changes in rewards and transition dynamics (Center-Wall). <strong>(d-f):</strong> Egocentric observations 
 in a 3D Four Rooms environment, where the reward alternates between +1 for green and -1 for yellow in the first task, 
-and -1 for green and +1 for yellow in the second task. **(e):** A slippery variant of the 3D Four Rooms environment, where 
-selected agent actions are occasionally replaced by random actions based on a predefined slip probability. **(g-h):** Mujoco 
+and -1 for green and +1 for yellow in the second task. <strong>(e):</strong> A slippery variant of the 3D Four Rooms environment, where 
+selected agent actions are occasionally replaced by random actions based on a predefined slip probability. <strong>(g-h):</strong> Mujoco 
 continuous control tasks, where agents either run forward and then backward, run forward at an increased speed in the 
 second task, or switch from Half-Cheetah to Walker while being rewarded for running forward in the second task.</figcaption>
 </figure>
@@ -141,22 +141,23 @@ second task, or switch from Half-Cheetah to Walker while being rewarded for runn
 <figcaption style="text-align: left; margin-top: 10px;">Figure 3: Continual Reinforcement Learning Evaluation with pixel 
 observations in 2D Minigrid and 3D Four Rooms environment. Replay buffer resets at each task transitions to simulate drastic 
 distribution shifts: Agents face two sequential tasks (Task 1 & Task 2), each repeated twice (Exposure 1 & Exposure 2). 
-**(a-c):**The total cumulative returns accumulated during training. Overall, our agent, Simple SF (orange), shows notable 
+<strong>(a-c):</strong> The total cumulative returns accumulated during training. Overall, our agent, Simple SF (orange), shows notable 
 superiority and exhibited better transfer in later tasks over both DQN (blue) and agents with added constraints. Importantly, 
 constraints like reconstruction and orthogonality on basis features can impede learning.</figcaption>
 </figure>
 
 # 7. Results for Mujoco Continuous Control Tasks
 <figure style="text-align: center;">
-<img src="/../assets/img/project_simple_sf/mujoco_results.png" alt="Mujoco results" width="80%" height="80%">
+<img src="/../assets/img/project_simple_sf/mujoco_results.png" alt="Mujoco results" width="90%" height="90%">
 <figcaption style="text-align: left; margin-top: 10px;">Figure 4: Continual Reinforcement Learning results using pixel 
 observations in *Mujoco* environment across 5 random seeds. **Replay buffer resets at each task transitions to simulate drastic 
 distribution shifts.** we started with the half-cheetah domain in Task 1 where agents were rewarded for running forward. 
-We then introduced three different scenarios in Task 2: **(a)** agents were rewarded for running backwards, **(b)** running faster, 
-and, in the most drastic change, **(c)** switching from the half-cheetah to the walker domain with a forward running task. To 
-ensure comparability across these diverse scenarios, we normalized the returns, considering that each task has different 
-maximum attainable returns per episode. We did not evaluate APS (Pre-train) here because it struggles in the Continual RL 
-setting, even in simpler environments such as the 2D Minigrid and 3D Miniworld.</figcaption>
+We then introduced three different scenarios in Task 2: <strong>(a)</strong> agents were rewarded for running backwards, 
+<strong>(b)</strong> running faster, and, in the most drastic change, <strong>(c)</strong> switching from the half-cheetah 
+to the walker domain with a forward running task. To ensure comparability across these diverse scenarios, we normalized 
+the returns, considering that each task has different maximum attainable returns per episode. We did not evaluate APS 
+(Pre-train) here because it struggles in the Continual RL setting, even in simpler environments such as the 2D Minigrid 
+and 3D Miniworld.</figcaption>
 </figure>
 
 # 8. How effectively can Successor Features be decoded into Successor Representations? 
@@ -174,9 +175,9 @@ using the Center-Wall environment after training the non-linear decoder. Results
 approach consistently achieve lower MSE compared to baseline models (Figure (b and c) below).
 
 <figure style="text-align: center;">
-<img src="/../assets/img/project_simple_sf/decoder_model_and_results.png" alt="SR Decoder" width="70%" height="70%">
-<figcaption style="text-align: left; margin-top: 10px;">Figure 5: **(a)** Architecture of the non-linear decoder model.
-**(b-c)** Comparison of the Mean Squared Error (MSE) between the learned SFs and the predicted SRs in the Center-Wall
+<img src="/../assets/img/project_simple_sf/decoder_model_and_results.png" alt="SR Decoder" width="80%" height="80%">
+<figcaption style="text-align: left; margin-top: 10px;">Figure 5: <strong>(a)</strong> Architecture of the non-linear decoder model.
+<strong>(b-c)</strong> Comparison of the Mean Squared Error (MSE) between the learned SFs and the predicted SRs in the Center-Wall
 environment. Our approach consistently achieves lower MSE compared to baseline models, indicating that our SFs capture
 the environment's transition dynamics effectively.</figcaption>
 </figure>
@@ -198,6 +199,16 @@ the Center-Wall environment in both egocentric (partially observable) and alloce
 as the 3D Four Rooms environment with egocentric observations. A geospatial color mapping is applied to the SFs to examine
 whether SFs that are close in physical space exhibit similar representations in neural space. </figcaption>
 </figure>
+
+# 10. How important is the stop-gradient operator for effective learning?
+In a sparse rewards environment, such as the 2D Minigrid and 3D Four Rooms environments, learning the basis features 
+$$\phi$$ and the task encoding vector $$\boldsymbol{w}$$ concurrently using the Reward prediction loss (Eq. 3) can be 
+challenging. A possible issue is that the basis features $$\phi \rightarrow \vec{0}$$ , minimizing the loss but resulting 
+in ineffective learning. Additionally, we want the  task encoding vector $$\boldsymbol{w}$$ to capture information solely 
+about the rewards, without being influenced by the basis features $$\phi.$$ To address this, we apply a stop-gradient 
+operator on the basis features during learning with the Reward prediction loss (Eq. 3).
+
+
 
 
 
