@@ -106,8 +106,8 @@ while the SFs $$\psi$$ are learned in a stable way without collapse, allowing Si
 inputs, such as pixels.
 
 <figure style="text-align: center;">
-<img src="/../assets/img/project_simple_sf/our_model_original.png" alt="Architecture for Simple SFs for discrete actions" width="50%" height="50%">
-<figcaption>Architecture for Simple SFs for discrete actions</figcaption>
+<img src="/../assets/img/project_simple_sf/our_model_original.png" alt="Figure 1: Architecture for Simple SFs for discrete actions" width="50%" height="50%">
+<figcaption style="text-align: left; margin-top: 10px;">Architecture for Simple SFs for discrete actions</figcaption>
 </figure>
 
 # 5. Environments
@@ -123,8 +123,8 @@ features[6]. We also compare with an agent that learns SFs using a pre-training 
 the environment [4].
 
 <figure style="text-align: center;">
-<img src="/../assets/img/project_simple_sf/environments.png" alt="Environments" width="70%" height="70%">
-<figcaption>Environments used in our study. (a-c): We examined both egocentric (partially observable) and allocentric 
+<img src="/../assets/img/project_simple_sf/environments.png" alt="Environments" width="50%" height="50%">
+<figcaption style="text-align: left; margin-top: 10px;">Figure 2: Environments used in our study. (a-c): We examined both egocentric (partially observable) and allocentric 
 (fully observable) pixel observations in 2D Minigrid environments. Tasks included changes in reward locations 
 (Inverted-L Walls) and combined changes in rewards and transition dynamics (Center-Wall). (d-f): Egocentric observations 
 in a 3D Four Rooms environment, where the reward alternates between +1 for green and -1 for yellow in the first task, 
@@ -133,3 +133,19 @@ selected agent actions are occasionally replaced by random actions based on a pr
 continuous control tasks, where agents either run forward and then backward, run forward at an increased speed in the 
 second task, or switch from Half-Cheetah to Walker while being rewarded for running forward in the second task.</figcaption>
 </figure>
+
+# 6. Results for 2D Minigrid and 3D Miniworld
+<figure style="text-align: center;">
+<img src="/../assets/img/project_simple_sf/minigrid_miniworld_total_returns.png" alt="2D and 3D Mazes results" width="80%" height="80%">
+<figcaption style="text-align: left; margin-top: 10px;">Figure 3: Continual Reinforcement Learning Evaluation with pixel 
+observations in 2D Minigrid and 3D Four Rooms environment. Replay buffer resets at each task transitions to simulate drastic 
+distribution shifts: Agents face two sequential tasks (Task 1 & Task 2), each repeated twice (Exposure 1 & Exposure 2). 
+(a-c):The total cumulative returns accumulated during training. Overall, our agent, Simple SF (orange), shows notable 
+superiority and exhibited better transfer in later tasks over both DQN (blue) and agents with added constraints. Importantly, 
+constraints like reconstruction and orthogonality on basis features can impede learning.</figcaption>
+</figure>
+
+
+
+
+
