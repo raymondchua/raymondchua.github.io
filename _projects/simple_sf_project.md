@@ -107,4 +107,4 @@ inputs, such as pixels.
 
 ![Architecture for Simple SFs for discrete actions](/../assets/img/project_simple_sf/our_model.png)
 
-<img src="../assets/img/project_simple_sf/our_model_original.png" alt="Architecture for Simple SFs for discrete actions" width="50%" height="50%">
+<img src="/../assets/img/project_simple_sf/our_model_original.png" alt="Architecture for Simple SFs for discrete actions" width="50%" height="50%">
