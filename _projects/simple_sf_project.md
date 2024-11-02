@@ -9,7 +9,7 @@ category: work
 ---
 Paper: <a href='https://arxiv.org/abs/2410.22133'>https://arxiv.org/abs/2410.22133</a>
 
-Code base: <a href='https://github.com/raymondchua/simple_successor_features'>https://github.com/raymondchua/simple_successor_features</a>
+Code: <a href='https://github.com/raymondchua/simple_successor_features'>https://github.com/raymondchua/simple_successor_features</a>
 
 # 1. Introduction
 
@@ -193,7 +193,7 @@ other baseline models. Notably, while some approaches using reconstruction or or
 well-clustered SFs, these clusters do not always translate into effective policy learning.
 
 <figure style="text-align: center;">
-<img src="/../assets/img/project_simple_sf/sf_vis.png" alt="UMAP results" width="80%" height="80%">
+<img src="/../assets/img/project_simple_sf/sf_vis.png" alt="UMAP results" width="90%" height="90%">
 <figcaption style="text-align: left; margin-top: 10px;">Figure 6: UMAP visualisation of Successor Features in 2D space for
 the Center-Wall environment in both egocentric (partially observable) and allocentric (fully-observable) scenarios, as well
 as the 3D Four Rooms environment with egocentric observations. A geospatial color mapping is applied to the SFs to examine
@@ -209,7 +209,7 @@ about the rewards, without being influenced by the basis features $$\phi.$$ To a
 operator on the basis features during learning with the Reward prediction loss (Eq. 3).
 
 <figure style="text-align: center;">
-<img src="/../assets/img/project_simple_sf/stop_gradient_analysis.png" alt="Stop-gradient operator" width="70%" height="70%">
+<img src="/../assets/img/project_simple_sf/stop_gradient_analysis.png" alt="Stop-gradient operator" width="60%" height="60%">
 <figcaption style="text-align: left; margin-top: 10px;">Figure 7: Analysis of the use of stop-gradient operator in the 
 Reward prediction loss. <strong>(a):</strong> We compare the performance of our approach with and without the stop-gradient operator in the 3D
 Four Rooms environment. The stop-gradient operator significantly improves the performance of our approach, indicating
@@ -224,7 +224,7 @@ conducted across varying degrees of stochasticity (0.15, 0.3, and 0.45). Results
 demonstrates better learning efficiency compared to other baseline methods.
 
 <figure style="text-align: center;">
-<img src="/../assets/img/project_simple_sf/slippery_four_rooms_results.png" alt="Stochasticity analysis" width="70%" height="70%">
+<img src="/../assets/img/project_simple_sf/slippery_four_rooms_results.png" alt="Stochasticity analysis" width="80%" height="80%">
 <figcaption style="text-align: left; margin-top: 10px;">Figure 8: Analysis of the robustness of SFs to stochasticity within
 the environment, using a predetermined <em>slippery</em> probability, resulting in actions being occasionally replaced with 
 alternative random actions.</figcaption>
@@ -237,7 +237,7 @@ tasks. As expected, approaches that use additional objectives, such as reconstru
 basis features $$\phi$$, require more computational resources. 
 
 <figure style="text-align: center;">
-<img src="/../assets/img/project_simple_sf/efficiency_analysis.png" alt="Efficiency analysis" width="70%" height="70%">
+<img src="/../assets/img/project_simple_sf/efficiency_analysis.png" alt="Efficiency analysis" width="80%" height="80%">
 <figcaption style="text-align: left; margin-top: 10px;">Figure 9: Analysis of the efficiency of our approach relative to
 other methods. </figcaption>
 </figure>
