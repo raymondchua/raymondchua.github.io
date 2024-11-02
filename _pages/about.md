@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 ### Website is work in progress!  🚧
-*Last updated 22 Oct 2024.*
+*Last updated 2 Nov 2024.*
 
 I’m a doctoral candidate at McGill University and Mila, advised by <a href='https://www.cs.mcgill.ca/~dprecup/'>Doina Precup</a> and <a href='https://linclab.mila.quebec/team/blake'>Blake Richards</a>. Their expertise in 
 machine learning and computational neuroscience has been instrumental in shaping my approach to exploring the intricate 
