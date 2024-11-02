@@ -108,7 +108,7 @@ inputs, such as pixels.
 
 <figure style="text-align: center;">
 <img src="/../assets/img/project_simple_sf/our_model_original.png" alt="Figure 1: Architecture for Simple SFs for discrete actions" width="50%" height="50%">
-<figcaption style="text-align: center; margin-top: 10px;">Architecture for Simple SFs for discrete actions</figcaption>
+<figcaption style="text-align: center; margin-top: 10px;">Figure 1: Architecture for Simple SFs for discrete actions</figcaption>
 </figure>
 
 # 5. Environments
@@ -238,7 +238,7 @@ basis features $$\phi$$, require more computational resources.
 
 <figure style="text-align: center;">
 <img src="/../assets/img/project_simple_sf/efficiency_analysis.png" alt="Efficiency analysis" width="80%" height="80%">
-<figcaption style="text-align: left; margin-top: 10px;">Figure 9: Analysis of the efficiency of our approach relative to
+<figcaption style="text-align: center; margin-top: 10px;">Figure 9: Analysis of the efficiency of our approach relative to
 other methods. </figcaption>
 </figure>
 
