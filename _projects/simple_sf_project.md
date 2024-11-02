@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Learning Successor Features the Simple Way
-description: A simple and elegant approach to learning Successor Features for Continual Reinforcement Learning. 
+description: A simple and elegant approach to learning Successor Features for Continual Reinforcement Learning. This 
+  project was accepted at NeurIPS 2024.
 img: assets/img/12.jpg
 importance: 1
 category: work
@@ -179,6 +180,27 @@ approach consistently achieve lower MSE compared to baseline models (Figure (b a
 environment. Our approach consistently achieves lower MSE compared to baseline models, indicating that our SFs capture
 the environment's transition dynamics effectively.</figcaption>
 </figure>
+
+# 9. How well do similar Successor Features that are proximate in neural space correspond to proximity in physical space?
+Using UMAP, we visualise the Successor Features in 2D space for the Center-Wall environment in both egocentric (partially 
+observable) and allocentric (fully-observable) scenarios, as well as the 3D Four Rooms environment with egocentric 
+observations. A geospatial color mapping is applied to the SFs to examine whether SFs that are close in physical space 
+exhibit similar representations in neural space.
+
+The visualisation below shows that our approach consistently produces well-organized clusters in all the scenarios, unlike 
+other baseline models. Notably, while some approaches using reconstruction or orthogonality constraints may yield 
+well-clustered SFs, these clusters do not always translate into effective policy learning.
+
+<figure style="text-align: center;">
+<img src="/../assets/img/project_simple_sf/sf_vis.png" alt="UMAP results" width="70%" height="70%">
+<figcaption style="text-align: left; margin-top: 10px;">Figure 6: UMAP visualisation of Successor Features in 2D space for
+the Center-Wall environment in both egocentric (partially observable) and allocentric (fully-observable) scenarios, as well
+as the 3D Four Rooms environment with egocentric observations. A geospatial color mapping is applied to the SFs to examine
+whether SFs that are close in physical space exhibit similar representations in neural space. </figcaption>
+</figure>
+
+
+
 
 
 
