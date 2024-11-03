@@ -253,21 +253,21 @@ powerful yet efficient solution in environments where both adaptability and comp
 
 # 14. References
 
-[1] Sutton, Richard S. "Reinforcement learning: An introduction." *A Bradford Book*(2018).
+[1] Sutton, Richard S. "Reinforcement learning: An introduction." *A Bradford Book* (2018).
 
 [2] Dayan, Peter. "Improving generalization for temporal difference learning: The successor representation."*Neural computation*5.4 (1993): 613-624.
 
-[3] Borsa, Diana, et al. "Universal successor features approximators."*arXiv preprint arXiv:1812.07626*(2018).
+[3] Borsa, Diana, et al. "Universal successor features approximators."*arXiv preprint arXiv:1812.07626* (2018).
 
 [4] Liu, Hao, and Pieter Abbeel. "Aps: Active pretraining with successor features."*International Conference on Machine Learning*. PMLR, 2021.
 
 [5] Machado, Marlos C., Marc G. Bellemare, and Michael Bowling. "Count-based exploration with the successor representation."*Proceedings of the AAAI Conference on Artificial Intelligence*. Vol. 34. No. 04. 2020.
 
-[6] Touati, Ahmed, Jérémy Rapin, and Yann Ollivier. "Does zero-shot reinforcement learning exist?."*arXiv preprint arXiv:2209.14935*(2022).
+[6] Touati, Ahmed, Jérémy Rapin, and Yann Ollivier. "Does zero-shot reinforcement learning exist?."*arXiv preprint arXiv:2209.14935* (2022).
 
 [7] Van Hasselt, Hado, Arthur Guez, and David Silver. "Deep reinforcement learning with double q-learning."*Proceedings of the AAAI conference on artificial intelligence*. Vol. 30. No. 1. 2016.
 
-[8] Lillicrap, T. P. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015).
+[8] Lillicrap, T. P. "Continuous control with deep reinforcement learning."arXiv preprint arXiv:1509.02971(2015).
 
 
 
