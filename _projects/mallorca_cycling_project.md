@@ -133,5 +133,62 @@ along the way.
 <img src="/../assets/img/mallorca_cycling_2024/lighthouse_3.png" alt="formentor_3" width="60%" height="60%">
 </figure>
 
+## A Rainy Day at Velovie: More Than Just a Cycling Café
+### Unexpected Turn Leads to a Charming Discovery
+
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/velovie_1.png" alt="velovie_1" width="60%" height="60%">
+<figcaption>Unexpected Rainy Day Stopover</figcaption>
+</figure>
+
+What was meant to be a day on the roads turned into a cozy stopover thanks to a sudden downpour. But every cyclist knows 
+that a change in weather is just another route to a new adventure. This particular rainy day brought me to the doors of 
+Velovie, a quaint café that's quickly become a hub for cycling enthusiasts in Mallorca.
+
+### Warm Welcomes and Homemade Delights
+
+Owned by Elsa and Jamie, two passionate cyclists who fell in love with Mallorca’s landscapes, Velovie is more than just 
+a café; it's a meeting point for tales of trails and rides. Their warmth was palpable, as was their enthusiasm for sharing 
+their experiences. As I settled into the comfortable setting, I was treated to homemade cakes—each bite a testament to 
+the café's homely vibe. The café buzzed with conversations, and the air was thick with the aroma of freshly brewed coffee 
+and rain-soaked earth.
+
+### Bonding Over Wheels and Cakes
+
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/velovie_2.png" alt="velovie_2" width="60%" height="60%">
+</figure>
+
+It wasn’t long before I found myself engrossed in conversations about favorite routes and cycling challenges with other 
+patrons. The café’s resident dog, JJ, was a cheerful presence, nudging everyone into a game of fetch between their stories 
+and sips. This place wasn’t just a shelter from the rain; it was a delightful blend of community and passion.
+
+### Encounters with Cycling Legends
+
+Adding to Velovie's charm is its reputation as a stopover for some of the sport’s greats, including members from the 
+renowned <a href='https://ineosgrenadier.com/en/ca/explore/ineos-grenadier-partners/ineos-grenadiers'>Ineos Grenadier</a> 
+team. Knowing that the very same space was frequented by iconic cyclists added a layer of awe and respect to the ambiance.
+
+### Planning the Ride to Sa Calobra
+
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/velovie_3.png" alt="velovie_3" width="60%" height="60%">
+</figure>
+
+The highlight of my visit, however, was planning my upcoming ride to Sa Calobra. Jamie, with his extensive knowledge of 
+Mallorca’s routes, sat down with me over a map strewn across the wall. He shared invaluable tips and insights that only 
+a seasoned local cyclist could offer. From the best times to start the ride to avoid the crowds, to challenging turns I 
+should be wary of, Jamie’s advice was golden.
+
+### Looking Forward to Sa Calobra
+
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/velovie_4.png" alt="velovie_4" width="60%" height="60%">
+</figure>
+
+With a belly full of cake and a heart full of inspiration, I left Velovie not just ready but excited for the road ahead. 
+Sa Calobra awaited, and thanks to my stop at this local gem, I felt more prepared and eager for the challenges it would 
+bring.
+
 
 
