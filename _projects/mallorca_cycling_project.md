@@ -8,7 +8,7 @@ category: sports
 ---
 
 <figure style="text-align: center;">
-<img src="/../assets/img/mallorca_cycling_2024/bunyola_1.png" alt="bunyola_1" width="80%" height="80%">
+<img src="/../assets/img/mallorca_cycling_2024/bunyola_1.png" alt="bunyola_1" width="60%" height="60%">
 <figcaption>First Morning in Bunyola</figcaption>
 </figure>
 
@@ -20,10 +20,20 @@ the airport to Bunyola was quiet, with the anticipation of the upcoming adventur
 Waking up in this serene setting was like stepping into a painting. The morning light painted the town in hues of gold, 
 and every angle offered a postcard-worthy view.
 
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/bunyola_2.png" alt="bunyola_2" width="60%" height="60%">
+<figcaption>Exploring Bunyola</figcaption>
+</figure>
+
 **Exploring Bunyola** Strolling through Bunyola's quaint streets, I was immediately struck by the town’s vibrant character. 
 Locals take pride in their gardening, which was evident from the lush plants and colorful flowers that adorned every nook 
 and cranny. The flowers cascaded from balconies and thrived in courtyards, bringing life and color to the stone paths 
 and ancient walls.
+
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/bunyola_3.png" alt="bunyola_3" width="60%" height="60%">
+<figcaption>Architectural Charms</figcaption>
+</figure>
 
 **Architectural Charms** The traditional Mallorcan architecture was a sight to behold, with its distinctive green window 
 frames standing out against the earthy tones of the buildings. This unique feature added a depth of character to the 
@@ -32,3 +42,5 @@ town, highlighting a style that was both rustic and inviting.
 **Reflections** My first day in Bunyola was an enchanting introduction to Mallorca's charm. The combination of natural 
 beauty and meticulous architecture promised that this journey would be memorable. I was eager to see what the rest of 
 the trip had in store, and I knew that each day would reveal more of the island’s hidden treasures.
+
+
