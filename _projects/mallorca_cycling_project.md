@@ -41,7 +41,7 @@ town, highlighting a style that was both rustic and inviting.
 beauty and meticulous architecture promised that this journey would be memorable. I was eager to see what the rest of 
 the trip had in store, and I knew that each day would reveal more of the island’s hidden treasures.
 
-Day Two: Lakeside Stop and a Warm Welcome at the Hotel
+# Day Two: Lakeside Stop and a Warm Welcome at the Hotel
 
 <figure style="text-align: center;">
 <img src="/../assets/img/mallorca_cycling_2024/hotel_transit_1.png" alt="lake_1" width="60%" height="60%">
@@ -92,5 +92,46 @@ benefit—a generous discount that made this exquisite experience even more grat
 <figure style="text-align: center;">
 <img src="/../assets/img/mallorca_cycling_2024/hotel_transit_6.png" alt="lake_6" width="60%" height="60%">
 </figure>
+
+# Conquering Cap de Formentor: My First Outdoor Climb After a Long Montreal Winter
+
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/lighthouse_1.png" alt="formentor_1" width="60%" height="60%">
+<figcaption>Cap de Formentor: A Challenge and a Reward</figcaption>
+</figure>
+
+**Kicking Off the Cycling Season at Cap de Formentor** After months of enduring the harsh, icy grip of a Montreal winter, my cycling journey brought me to the roads of Mallorca, 
+where I faced a different kind of challenge: the iconic Cap de Formentor. Known for its breathtaking views and rigorous demands, 
+this route promised to test my limits and reward my efforts with unparalleled natural beauty.
+
+**The Cap de Formentor route is not just a path** It's a journey through some of Mallorca's most stunning landscapes. The road 
+winds like a serpent, with steep inclines that challenge even seasoned cyclists. Each pedal stroke brought a mix of exertion 
+and exhilaration, as I navigated the 35 kilometers of roadway that ascended a total of 1000 meters. The azure waves of the 
+Mediterranean contrasted sharply with the rugged cliffs, creating a visual feast that spurred me onward.
+
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/lighthouse_4.png" alt="formentor_2" width="60%" height="60%">
+</figure>
+
+**Historical Significance** One of the most captivating aspects of Cap de Formentor is not just its natural beauty but its 
+rich history. The lighthouse at the road's end, a beacon for ships since the 19th century, stands as a testament to human 
+perseverance and ingenuity. Constructing this lighthouse was a monumental effort—massive stones were transported up the 
+winding roads with nothing but a winch and the sheer strength of 40 men. Knowing the history of the road beneath my wheels 
+deepened my connection to the landscape, making each turn and climb feel like a passage through time.
+
+As I pushed my limits on this challenging ride, I found myself reflecting on more than just the physical effort. This 
+climb was a poignant reminder of what we can achieve with determination. Fresh out of a long winter, where the cold often 
+confines and restricts us, here I was, conquering new heights and rediscovering my own strength. It was a powerful 
+affirmation that challenges, whether they be from nature or self-imposed limits, are surmountable.
+
+**Concluding Thoughts** Completing the climb to Cap de Formentor was more than just a physical achievement; it was a transformative experience 
+that intertwined the beauty of Mallorca with the profound stories of its past. This journey was a perfect start to my 
+cycling season, reminding me that with enough determination, we can overcome any obstacle and learn something incredible 
+along the way.
+
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/lighthouse_3.png" alt="formentor_3" width="60%" height="60%">
+</figure>
+
 
 
