@@ -12,7 +12,7 @@ category: sports
 <figcaption>First Morning in Bunyola</figcaption>
 </figure>
 
-# Day 1: Arrival in Bunyola
+## Day 1: Arrival in Bunyola
 Arriving in Palma at Night Upon landing in Palma, the night had already draped its calm over the city. The journey from 
 the airport to Bunyola was quiet, with the anticipation of the upcoming adventure making every moment feel suspended in time.
 
@@ -41,7 +41,7 @@ town, highlighting a style that was both rustic and inviting.
 beauty and meticulous architecture promised that this journey would be memorable. I was eager to see what the rest of 
 the trip had in store, and I knew that each day would reveal more of the island’s hidden treasures.
 
-# Day Two: Lakeside Stop and a Warm Welcome at the Hotel
+## Day Two: Lakeside Stop and a Warm Welcome at the Hotel
 
 <figure style="text-align: center;">
 <img src="/../assets/img/mallorca_cycling_2024/hotel_transit_1.png" alt="lake_1" width="60%" height="60%">
@@ -93,7 +93,7 @@ benefit—a generous discount that made this exquisite experience even more grat
 <img src="/../assets/img/mallorca_cycling_2024/hotel_transit_6.png" alt="lake_6" width="60%" height="60%">
 </figure>
 
-# Conquering Cap de Formentor: My First Outdoor Climb After a Long Montreal Winter
+## Conquering Cap de Formentor: My First Outdoor Climb After a Long Montreal Winter
 
 <figure style="text-align: center;">
 <img src="/../assets/img/mallorca_cycling_2024/lighthouse_1.png" alt="formentor_1" width="60%" height="60%">
@@ -134,12 +134,13 @@ along the way.
 </figure>
 
 ## A Rainy Day at Velovie: More Than Just a Cycling Café
-### Unexpected Turn Leads to a Charming Discovery
 
 <figure style="text-align: center;">
 <img src="/../assets/img/mallorca_cycling_2024/velovie_1.png" alt="velovie_1" width="60%" height="60%">
 <figcaption>Unexpected Rainy Day Stopover</figcaption>
 </figure>
+
+### Unexpected Turn Leads to a Charming Discovery
 
 What was meant to be a day on the roads turned into a cozy stopover thanks to a sudden downpour. But every cyclist knows 
 that a change in weather is just another route to a new adventure. This particular rainy day brought me to the doors of 
@@ -152,8 +153,6 @@ a café; it's a meeting point for tales of trails and rides. Their warmth was pa
 their experiences. As I settled into the comfortable setting, I was treated to homemade cakes—each bite a testament to 
 the café's homely vibe. The café buzzed with conversations, and the air was thick with the aroma of freshly brewed coffee 
 and rain-soaked earth.
-
-### Bonding Over Wheels and Cakes
 
 <figure style="text-align: center;">
 <img src="/../assets/img/mallorca_cycling_2024/velovie_2.png" alt="velovie_2" width="60%" height="60%">
@@ -189,6 +188,77 @@ should be wary of, Jamie’s advice was golden.
 With a belly full of cake and a heart full of inspiration, I left Velovie not just ready but excited for the road ahead. 
 Sa Calobra awaited, and thanks to my stop at this local gem, I felt more prepared and eager for the challenges it would 
 bring.
+
+## Conquering Sa Calobra: A Cyclist's Dream Come True
+
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/sa_calobra_1.png" alt="sa_calobra_1" width="60%" height="60%">
+<figcaption>The Legendary Climb</figcaption>
+</figure>
+
+### The Start of a Legendary Climb
+
+The morning was crisp as I set out from Coll de Femenia, legs fresh and mind set on the challenge ahead. Sa Calobra, 
+known for its beauty as much as its brutality, beckoned. As the sun began its slow rise over the mountains, its rays 
+illuminated the path that would lead me through one of cycling’s most revered adventures.
+
+### Majestic Views at Every Turn
+
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/sa_calobra_3.png" alt="sa_calobra_2" width="60%" height="60%">
+</figure>
+
+Pedaling forward, each turn of the winding road brought into view breathtaking scenes where majestic mountains met the 
+shimmering sea. This Mediterranean paradise was more than just a backdrop; it was a vital part of the experience, with 
+its awe-inspiring landscapes energizing my ascent. The iconic hairpin bends unfolded before me, each one a story of its 
+own, and the stunning coastal vistas offered fleeting moments of respite from the physical exertion.
+
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/sa_calobra_2.png" alt="sa_calobra_2" width="60%" height="60%">
+</figure>
+
+Thanks to the sage advice from Jamie at Hobbits Ride Bikes, I strategically paused at Coll de sa Bataia to refuel with 
+snacks and a robust cup of coffee. It was here that I encountered the beloved Orange Juice Man, a fixture along this 
+route whose freshly squeezed juices provided a much-needed boost just after the aqueduct. His cheerful demeanor and the 
+sweet tang of orange became a part of this cherished tradition among cyclists tackling Sa Calobra.
+
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/sa_calobra_4.png" alt="sa_calobra_3" width="60%" height="60%">
+</figure>
+
+### The Reward of the Climb
+
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/sa_calobra_5.png" alt="sa_calobra_4" width="60%" height="60%">
+</figure>
+
+After the grueling climb, the summit offered more than just relief; it delivered a sense of triumph. To celebrate, I 
+stopped at a nearby cycling café, newly opened by Emma and Javi at Sarutaverda. Their passion for cycling and the friendly 
+atmosphere they created was a perfect end to an intense ride. The cappuccino there wasn't just good; it was a reward, 
+each sip a celebration of the climb conquered.
+
+### Reflections on a Dream Fulfilled
+
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/sa_calobra_6.png" alt="sa_calobra_5" width="60%" height="60%">
+</figure>
+
+Embarking on the 9.4km climb of Sa Calobra was not just about testing my physical limits; it was a journey through history, 
+embracing the spirit of countless cyclists who had taken on this legendary route. The steep inclines, the serpentine road, 
+and the thrill of reaching new heights made this more than just a ride; it was an exhilarating adventure that tested my 
+resolve and rewarded my efforts with unforgettable memories.
+
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/sa_calobra_7.png" alt="sa_calobra_6" width="60%" height="60%">
+</figure>
+
+To fellow cyclists, adding Sa Calobra to your bucket list is a must. The sense of accomplishment paired with the indelible 
+memories made along the way are truly priceless. To Mallorca, with its challenging routes and supportive community, you 
+have indeed captured my heart.
+
+<figure style="text-align: center;">
+<img src="/../assets/img/mallorca_cycling_2024/sa_calobra_8.png" alt="sa_calobra_7" width="60%" height="60%">
+</figure>
 
 
 
