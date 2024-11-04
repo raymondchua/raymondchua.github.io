@@ -263,7 +263,7 @@ have indeed captured my heart.
 ## Serving Up a Rest Day at Rafa Nadal Academy
 
 <figure style="text-align: center;">
-<img src="/../assets/img/mallorca_cycling_2024/nadal_1.png" alt="nadal_1" width="60%" height="60%">
+<img src="/../assets/img/mallorca_cycling_2024/nadal_academy_1.png" alt="nadal_1" width="60%" height="60%">
 <figcaption>A Day Off the Bike and into the halls of the Rafa Nadal Academy</figcaption>
 </figure>
 
@@ -276,7 +276,7 @@ ground for aspiring tennis stars; it’s a shrine to one of tennis’s greatest 
 ### Exploring the Museum
 
 <figure style="text-align: center;">
-<img src="/../assets/img/mallorca_cycling_2024/nadal_3.png" alt="nadal_2" width="60%" height="60%">
+<img src="/../assets/img/mallorca_cycling_2024/nadal_academy_3.png" alt="nadal_2" width="60%" height="60%">
 </figure>
 
 My day began at the academy’s museum, which houses a collection dedicated to Rafael Nadal's storied career. While I had 
@@ -289,7 +289,7 @@ tennis history.
 ### A Tennis Enthusiast’s Paradise
 
 <figure style="text-align: center;">
-<img src="/../assets/img/mallorca_cycling_2024/nadal_2.png" alt="nadal_3" width="60%" height="60%">
+<img src="/../assets/img/mallorca_cycling_2024/nadal_academy_2.png" alt="nadal_3" width="60%" height="60%">
 </figure>
 
 However, the true highlight of my visit was the academy's facilities themselves. Stepping onto the pristine courts, I 
