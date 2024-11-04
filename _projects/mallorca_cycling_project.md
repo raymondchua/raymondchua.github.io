@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Mallorca earns its reputation as a Cycling Mecca
-description: Explore why Mallorca is a cycling paradise as I share my adventures across its legendary routes and vibrant cyclist community.
+title:  My First Self-Organized Road Cycling Trip
+description: Explore why Mallorca is a cycling paradise as I share my adventures across its legendary routes and vibrant cyclist community. 🇪🇸
 img: assets/img/mallorca_cycling_2024/cover.png
 importance: 2
 category: sports
@@ -16,7 +16,8 @@ category: sports
 Arriving in Palma at Night Upon landing in Palma, the night had already draped its calm over the city. The journey from 
 the airport to Bunyola was quiet, with the anticipation of the upcoming adventure making every moment feel suspended in time.
 
-**First Morning in Bunyola** As dawn broke, I found myself in Bunyola, a picturesque town cradled by the Tramuntana mountains. 
+### First Morning in Bunyola
+As dawn broke, I found myself in Bunyola, a picturesque town cradled by the Tramuntana mountains. 
 Waking up in this serene setting was like stepping into a painting. The morning light painted the town in hues of gold, 
 and every angle offered a postcard-worthy view.
 
@@ -24,7 +25,8 @@ and every angle offered a postcard-worthy view.
 <img src="/../assets/img/mallorca_cycling_2024/bunyola_2.png" alt="bunyola_2" width="60%" height="60%">
 </figure>
 
-**Exploring Bunyola** Strolling through Bunyola's quaint streets, I was immediately struck by the town’s vibrant character. 
+### Exploring Bunyola
+Strolling through Bunyola's quaint streets, I was immediately struck by the town’s vibrant character. 
 Locals take pride in their gardening, which was evident from the lush plants and colorful flowers that adorned every nook 
 and cranny. The flowers cascaded from balconies and thrived in courtyards, bringing life and color to the stone paths 
 and ancient walls.
@@ -33,11 +35,12 @@ and ancient walls.
 <img src="/../assets/img/mallorca_cycling_2024/bunyola_3.png" alt="bunyola_3" width="60%" height="60%">
 </figure>
 
-**Architectural Charms** The traditional Mallorcan architecture was a sight to behold, with its distinctive green window 
+### Architectural Charms
+The traditional Mallorcan architecture was a sight to behold, with its distinctive green window 
 frames standing out against the earthy tones of the buildings. This unique feature added a depth of character to the 
 town, highlighting a style that was both rustic and inviting.
 
-**Reflections** My first day in Bunyola was an enchanting introduction to Mallorca's charm. The combination of natural 
+My first day in Bunyola was an enchanting introduction to Mallorca's charm. The combination of natural 
 beauty and meticulous architecture promised that this journey would be memorable. I was eager to see what the rest of 
 the trip had in store, and I knew that each day would reveal more of the island’s hidden treasures.
 
@@ -48,19 +51,22 @@ the trip had in store, and I knew that each day would reveal more of the island�
 <figcaption>A Breathtaking Pit Stop</figcaption>
 </figure>
 
-**Arrival and First Impressions** After an invigorating morning in Bunyola, our journey continued through the heart of 
+A Breathtaking Pit Stop
+
+After an invigorating morning in Bunyola, my journey continued through the heart of 
 Mallorca’s mountainous landscape. The drive itself was a spectacle, with every turn revealing expansive views that 
 demanded to be captured.
 
-**A Breathtaking Pit Stop** Midway through the journey, we made a pit stop beside a stunning lake nestled among the peaks. 
-The tranquility of the water, reflecting the clear blue skies, offered a perfect contrast to the ruggedness of our earlier 
+Midway through the journey, I made a pit stop beside a stunning lake nestled among the peaks. 
+The tranquility of the water, reflecting the clear blue skies, offered a perfect contrast to the ruggedness of the earlier 
 drive. The first photo captures this serene moment, a tranquil pause that refreshed the spirit.
 
 <figure style="text-align: center;">
 <img src="/../assets/img/mallorca_cycling_2024/hotel_transit_2.png" alt="lake_2" width="60%" height="60%">
 </figure>
 
-**Arriving at the Hotel** Our final destination for the day was the hotel, a charming family-run establishment that 
+### Arriving at the Hotel
+My final destination for the day was the hotel, a charming family-run establishment that 
 awaited with the promise of rest and hospitality. The first sight that greeted me was my rental bike, poised at the 
 entrance, a silent invitation to the adventures ahead. The photo of my bike against the hotel’s welcoming facade marks 
 the official start of my cycling escapades.
@@ -85,9 +91,10 @@ embedded in its walls made staying here feel like stepping into a living history
 <img src="/../assets/img/mallorca_cycling_2024/hotel_transit_5.png" alt="lake_5" width="60%" height="60%">
 </figure>
 
-**Personal Touch and Off-Peak Perks** What made the stay truly memorable was the personal touch in every detail, reflecting 
-the family’s dedication to preserving their heritage. Moreover, traveling during the off-peak season brought an unexpected 
-benefit—a generous discount that made this exquisite experience even more gratifying.
+### Off-Peak Perks
+What made the stay truly memorable was the personal touch in every detail, reflecting the family’s dedication to 
+preserving their heritage. Moreover, traveling during the off-peak season brought an unexpected benefit—a generous 
+discount that made this exquisite experience even more gratifying.
 
 <figure style="text-align: center;">
 <img src="/../assets/img/mallorca_cycling_2024/hotel_transit_6.png" alt="lake_6" width="60%" height="60%">
@@ -100,38 +107,40 @@ benefit—a generous discount that made this exquisite experience even more grat
 <figcaption>Cap de Formentor: A Challenge and a Reward</figcaption>
 </figure>
 
-**Kicking Off the Cycling Season at Cap de Formentor** After months of enduring the harsh, icy grip of a Montreal winter, my cycling journey brought me to the roads of Mallorca, 
+### The Cap de Formentor route is not just a path
+After months of enduring the harsh, icy grip of a Montreal winter, my cycling journey brought me to the roads of Mallorca, 
 where I faced a different kind of challenge: the iconic Cap de Formentor. Known for its breathtaking views and rigorous demands, 
 this route promised to test my limits and reward my efforts with unparalleled natural beauty.
 
-**The Cap de Formentor route is not just a path** It's a journey through some of Mallorca's most stunning landscapes. The road 
-winds like a serpent, with steep inclines that challenge even seasoned cyclists. Each pedal stroke brought a mix of exertion 
-and exhilaration, as I navigated the 35 kilometers of roadway that ascended a total of 1000 meters. The azure waves of the 
-Mediterranean contrasted sharply with the rugged cliffs, creating a visual feast that spurred me onward.
+It's a journey through some of Mallorca's most stunning landscapes. The road winds like a serpent, with steep inclines 
+that challenge even seasoned cyclists. Each pedal stroke brought a mix of exertion and exhilaration, as I navigated the 
+35 kilometers of roadway that ascended a total of 1000 meters. The azure waves of the Mediterranean contrasted sharply 
+with the rugged cliffs, creating a visual feast that spurred me onward.
 
 <figure style="text-align: center;">
 <img src="/../assets/img/mallorca_cycling_2024/lighthouse_4.png" alt="formentor_2" width="60%" height="60%">
 </figure>
 
-**Historical Significance** One of the most captivating aspects of Cap de Formentor is not just its natural beauty but its 
-rich history. The lighthouse at the road's end, a beacon for ships since the 19th century, stands as a testament to human 
-perseverance and ingenuity. Constructing this lighthouse was a monumental effort—massive stones were transported up the 
-winding roads with nothing but a winch and the sheer strength of 40 men. Knowing the history of the road beneath my wheels 
-deepened my connection to the landscape, making each turn and climb feel like a passage through time.
+### Historical Significance 
+One of the most captivating aspects of Cap de Formentor is not just its natural beauty but its rich history. The 
+lighthouse at the road's end, a beacon for ships since the 19th century, stands as a testament to human perseverance and 
+ingenuity. Constructing this lighthouse was a monumental effort—massive stones were transported up the winding roads with 
+nothing but a winch and the sheer strength of 40 men. Knowing the history of the road beneath my wheels deepened my 
+connection to the landscape, making each turn and climb feel like a passage through time.
 
 As I pushed my limits on this challenging ride, I found myself reflecting on more than just the physical effort. This 
 climb was a poignant reminder of what we can achieve with determination. Fresh out of a long winter, where the cold often 
 confines and restricts us, here I was, conquering new heights and rediscovering my own strength. It was a powerful 
 affirmation that challenges, whether they be from nature or self-imposed limits, are surmountable.
 
-**Concluding Thoughts** Completing the climb to Cap de Formentor was more than just a physical achievement; it was a transformative experience 
-that intertwined the beauty of Mallorca with the profound stories of its past. This journey was a perfect start to my 
-cycling season, reminding me that with enough determination, we can overcome any obstacle and learn something incredible 
-along the way.
-
 <figure style="text-align: center;">
 <img src="/../assets/img/mallorca_cycling_2024/lighthouse_3.png" alt="formentor_3" width="60%" height="60%">
 </figure>
+
+Completing the climb to Cap de Formentor was more than just a physical achievement; it was a transformative experience 
+that intertwined the beauty of Mallorca with the profound stories of its past. This journey was a perfect start to my 
+cycling season, reminding me that with enough determination, we can overcome any obstacle and learn something incredible 
+along the way.
 
 ## A Rainy Day at Velovie: More Than Just a Cycling Café
 
@@ -217,10 +226,11 @@ own, and the stunning coastal vistas offered fleeting moments of respite from th
 <img src="/../assets/img/mallorca_cycling_2024/sa_calobra_2.png" alt="sa_calobra_2" width="60%" height="60%">
 </figure>
 
-Thanks to the sage advice from Jamie at Hobbits Ride Bikes, I strategically paused at Coll de sa Bataia to refuel with 
-snacks and a robust cup of coffee. It was here that I encountered the beloved Orange Juice Man, a fixture along this 
-route whose freshly squeezed juices provided a much-needed boost just after the aqueduct. His cheerful demeanor and the 
-sweet tang of orange became a part of this cherished tradition among cyclists tackling Sa Calobra.
+Thanks to the advice from Jamie, I stopped by Coll de sa Bataia to refuel with 
+snacks and a robust cup of coffee. Not long after the break, just when I am about to turn into Sa Calobra, I encountered 
+the beloved Orange Juice Man, a fixture along this route whose freshly squeezed juices provided a much-needed boost just 
+after the aqueduct. His cosy road-side shop has become a part of this cherished tradition among 
+cyclists tackling Sa Calobra.
 
 <figure style="text-align: center;">
 <img src="/../assets/img/mallorca_cycling_2024/sa_calobra_4.png" alt="sa_calobra_3" width="60%" height="60%">
@@ -233,7 +243,8 @@ sweet tang of orange became a part of this cherished tradition among cyclists ta
 </figure>
 
 After the grueling climb, the summit offered more than just relief; it delivered a sense of triumph. To celebrate, I 
-stopped at a nearby cycling café, newly opened by Emma and Javi at Sarutaverda. Their passion for cycling and the friendly 
+stopped at a nearby cycling café, newly opened by Emma and Javi at 
+<a href='https://https://www.instagram.com/sarutaverda/?hl=en'>Sa Ruta Verda.</a>  Their passion for cycling and the friendly 
 atmosphere they created was a perfect end to an intense ride. The cappuccino there wasn't just good; it was a reward, 
 each sip a celebration of the climb conquered.
 
@@ -260,17 +271,17 @@ have indeed captured my heart.
 <img src="/../assets/img/mallorca_cycling_2024/sa_calobra_8.png" alt="sa_calobra_7" width="60%" height="60%">
 </figure>
 
-## Serving Up a Rest Day at Rafa Nadal Academy
+## Serving Up a Rest Day at Rafael Nadal Academy
 
 <figure style="text-align: center;">
 <img src="/../assets/img/mallorca_cycling_2024/nadal_academy_1.png" alt="nadal_1" width="60%" height="60%">
-<figcaption>A Day Off the Bike and into the halls of the Rafa Nadal Academy</figcaption>
+<figcaption>A Day Off the Bike and into the courts of the Rafael Nadal Academy</figcaption>
 </figure>
 
 ### A Day Off the Bike and On the Court
 
 After days of intense cycling across Mallorca's challenging landscapes, I took a well-deserved break to explore a different 
-kind of sporting excellence at the Rafa Nadal Academy. Nestled in the heart of Mallorca, this academy isn’t just a training 
+kind of sporting excellence at the Rafael Nadal Academy. Nestled in the heart of Mallorca, this academy isn’t just a training 
 ground for aspiring tennis stars; it’s a shrine to one of tennis’s greatest players.
 
 ### Exploring the Museum
@@ -280,10 +291,10 @@ ground for aspiring tennis stars; it’s a shrine to one of tennis’s greatest 
 </figure>
 
 My day began at the academy’s museum, which houses a collection dedicated to Rafael Nadal's storied career. While I had 
-hoped for a deeper exploration into Nadal's early life and his initial steps into the world of tennis, the exhibits mainly 
+hoped for a deeper exploration into his early life and his initial steps into the world of tennis, the exhibits mainly 
 focused on his professional achievements. From his Grand Slam trophies to his Olympic gold medal, each artifact was a 
-testament to his dedication and skill. Despite the slight disappointment in the scope of the narrative, the display was 
-still impressive, showcasing a wide array of memorabilia that painted a picture of his journey through the echelons of 
+testament to his dedication and skill. Despite the slight disappointment at the lack of narrative, the display was 
+still impressive, showcasing a wide array of memorabilia that painted a picture of his journey through his heights in 
 tennis history.
 
 ### A Tennis Enthusiast’s Paradise
@@ -304,7 +315,7 @@ shared by all top athletes: dedication, resilience, and an unyielding desire to 
 a tourist spot; it was an inspirational hub, mirroring the spirit of its founder.
 
 As my rest day drew to a close, I felt refreshed and inspired, ready to take on the next leg of my cycling journey with 
-renewed vigor. The visit to the Rafa Nadal Academy was a perfect interlude, blending my love for all sports with a touch 
+renewed vigor. The visit to the Rafael Nadal Academy was a perfect interlude, blending my love for all sports with a touch 
 of inspiration from one of tennis’s greatest legends.
 
 ## Celebrating Community and Scenery with Rapha Mallorca
@@ -326,10 +337,15 @@ cyclists from as far as Berlin and Texas. Pedaling through Mallorca’s majestic
 stories merged into a single, moving force. Each cyclist brought their own unique flair to the group, making the 
 experience rich with global camaraderie.
 
+<video width="100%" height="100%" controls>
+  <source src="/../assets/video/mallorca_cycling_2024/rapha_ride.mov" type="video/mov">
+    Your browser does not support the video tag.
+</video>
+
 Our route wound through some of Mallorca’s most breathtaking landscapes. The climb was challenging, but what awaited us 
 at the top made every pedal stroke worth it—the exhilarating descent was not just a physical rush but a visual feast, 
 with the island’s beauty unfolding beneath our wheels. Thanks to our group leader, this thrilling descent was captured 
-on video, a memorable highlight that I’ll treasure.
+on video.
 
 <figure style="text-align: center;">
 <img src="/../assets/img/mallorca_cycling_2024/rapha_2.png" alt="rapha_2" width="60%" height="60%">
@@ -355,8 +371,8 @@ stylish and functional apparel but through events that celebrate the cycling lif
 </figure>
 
 As a souvenir, I picked up Rapha Mallorca’s new jersey, adorned with names of the iconic routes I had conquered during my 
-time here in Mallorca, like Cap de Formentor and Sa Calobra. Wearing it will always remind me of the incredible landscapes 
-and the bonds formed over countless kilometers.
+time here in Mallorca, like Cap de Formentor and Sa Calobra. This cycling jersey will always remind me of the incredible 
+landscapes and the bonds formed over countless kilometers.
 
 Thanking Rapha and the wonderful people of Mallorca, I couldn’t have asked for a better finale to my cycling adventure. 
 The memories of this ride will linger long after my return home, a lasting tribute to the spirit of cycling and the 
