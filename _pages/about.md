@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 *Last updated 3 Nov 2024.*
 
-I’m a (last-year) doctoral candidate at McGill University and Mila, advised by <a href='https://www.cs.mcgill.ca/~dprecup/'>Doina Precup</a> and <a href='https://linclab.mila.quebec/team/blake'>Blake Richards</a>. Their expertise in 
+I’m a (final-year) doctoral candidate at McGill University and Mila, advised by <a href='https://www.cs.mcgill.ca/~dprecup/'>Doina Precup</a> and <a href='https://linclab.mila.quebec/team/blake'>Blake Richards</a>. Their expertise in 
 machine learning and computational neuroscience has been instrumental in shaping my approach to exploring the intricate 
 relationship between artificial intelligence and brain function. My work dives into how neural mechanisms of representation 
 and memory can be modeled to enhance AI's adaptability and efficiency. By integrating insights from neuroscience, I aim to 
