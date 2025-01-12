@@ -15,7 +15,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-*Last updated 3 Nov 2024.*
+*Last updated 12 Jan 2025.*
 
 I’m a (final-year) doctoral candidate at McGill University and Mila, advised by <a href='https://www.cs.mcgill.ca/~dprecup/'>Doina Precup</a> and <a href='https://linclab.mila.quebec/team/blake'>Blake Richards</a>. Their expertise in 
 machine learning and computational neuroscience has been instrumental in shaping my approach to exploring the intricate 
@@ -32,6 +32,6 @@ with learning difficulties, making my work relevant not only to the scientific c
 
 Beyond academia, the Covid-19 pandemic rekindled my passion for sports, leading me to cross-country skiing, swimming, cycling, and 
 running—culminating in participating in triathlons. I have dedicated a section under the projects page to share these adventures, offering a glimpse 
-into my life beyond academia. Free free to check it out, or visit my <a href='https://www.instagram.com/raymondrchua/'>Instagram</a> 
+into my life beyond academia. Feel free to check it out, or visit my <a href='https://www.instagram.com/raymondrchua/'>Instagram</a> 
 to see what keeps me busy when I’m not at my computer!
 
