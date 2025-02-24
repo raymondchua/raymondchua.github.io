@@ -15,7 +15,7 @@ nav_order: 6
 4. [Tanner Ducharme](https://www.linkedin.com/in/tanner-ducharme/), MSc student and intern with D-Box technologies. *Project: Spectrogram Augmentation for Improving Impulsive Audio Classification.*
 5. [Jake White](https://www.linkedin.com/in/jakerwhite/), MSc student and intern with Riskfuel Analytics. *Project: Consistent and robust volatility surfaces.*
 6. [Yassir Mamouni](https://www.linkedin.com/in/yassir-mamouni-b6b17515b/), MSc student and intern with Desjardins. *Project: Reinforcement Learning Based Recommender Systems.*
-7. [Prishruit Punia](https://www.linkedin.com/in/prishruit-punia/), MSc student and intern with Desjardins. *Project: RContinual Learning for Recommender Systems.*
+7. [Prishruit Punia](https://www.linkedin.com/in/prishruit-punia/), MSc student and intern with Desjardins. *Project: Continual Learning for Recommender Systems.*
 8. [Kasetty Tejas](https://www.linkedin.com/in/tejaskasetty/), MSc student and intern with IntellSport.
 9. [Kairavi Bajaj](https://www.linkedin.com/in/kairavibajaj/), MSc student and intern with BusPas Inc. *Project: An Edge Computing Solution For Real Time Anomaly Detection And Passenger Counting At Bus Stops.*
 
