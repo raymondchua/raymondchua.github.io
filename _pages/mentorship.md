@@ -3,7 +3,8 @@ layout: page
 permalink: /mentorship/
 title: Mentorship
 description: Below is a list of the brilliant students I've had the privilege of mentoring through internships that not only focus on real-world applications but also encompass research components where no previous approaches exist. 
-  My role has involved advising both the interns and, occasionally, the companies on potential machine learning models, forming pipelines for data collection, model building, and performance evaluation. These mentorships have been conducted in collaboration with [Mila](https://mila.quebec/en/), the Quebec AI Institute.
+  My role has involved advising both the interns and, occasionally, the companies on potential machine learning models, forming pipelines for data collection, model building, and performance evaluation. 
+  These mentorships have been conducted in collaboration with Mila, the Quebec AI Institute.
 nav: true
 nav_order: 6
 ---
