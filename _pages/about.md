@@ -15,7 +15,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-*Last updated 12 Jan 2025.*
+*Last updated 23 Feb 2025.*
 
 I’m a (final-year) doctoral candidate at McGill University and Mila, advised by <a href='https://www.cs.mcgill.ca/~dprecup/'>Doina Precup</a> and <a href='https://linclab.mila.quebec/team/blake'>Blake Richards</a>. Their expertise in 
 machine learning and computational neuroscience has been instrumental in shaping my approach to exploring the intricate 
@@ -24,6 +24,13 @@ and memory can be modeled to enhance AI's adaptability and efficiency. By integr
 develop AI systems capable of continuous learning and adept at navigating unpredictable environments. 
 
 My expected graduation date is in ***Fall 2025*** and will be on the lookout for post-graduation opportunities in academia, industry, or research labs.
+
+In addition to my research, I am actively involved in mentoring emerging talent in the field of machine learning. 
+I supervise students from McGill University, University of Montreal, and Mila who are pursuing challenging internships with leading companies in Montreal and Quebec. 
+These internships, lasting 6-9 months, often blend real-world applications with research components, addressing new problems where established methods do not yet exist. 
+My role involves advising both the students and sometimes the companies on the selection of machine learning models, developing data pipelines, and refining model performance. 
+This mentorship not only allows me to give back to the academic community but also keeps me connected to the latest innovations in the industry. 
+For more detailed information about the students and projects I have mentored, please visit [my mentorship page](https://raymondchua.github.io/mentorship/).
 
 My personal connection to this work stems from having a family member with learning disabilities, which has deeply motivated me to 
 understand how our brains function and why some people face challenges in learning. Through my research, I hope to advance our 
