@@ -9,7 +9,7 @@ nav: true
 nav_order: 6
 ---
 # 2023
-1. [Alexander Hale](https://www.linkedin.com/in/alex-hale/), MSc student and intern with Microsoft Canada. *GPU Usage Reduction of a Conversational Agent.*
+1. [Alexander Hale](https://www.linkedin.com/in/alex-hale/), MSc student and intern with Microsoft Canada. *Project: GPU Usage Reduction of a Conversational Agent.*
 2. [Sorin Muchi](https://www.linkedin.com/in/sorinmuchi/), MSc student and intern with DRW. *Project: Outage Prediction for Low Latency Financial Trading Radio Networks*
 3. [Krishna Maneesha Dendukuri](https://www.linkedin.com/in/krishna-maneeshad/), MSc student and intern with D-Box technologies. *Project: Deep Learning for Action Detection in Movies for Haptic Effect Generation.*
 4. [Tanner Ducharme](https://www.linkedin.com/in/tanner-ducharme/), MSc student and intern with D-Box technologies. *Project: Spectrogram Augmentation for Improving Impulsive Audio Classification.*
