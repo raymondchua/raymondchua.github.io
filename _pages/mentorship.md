@@ -32,7 +32,7 @@ nav_order: 6
 1. [Raghav Gupta](https://www.linkedin.com/in/raghav-gupta-59379110b/), MSc student and intern with Nexus Robotics. *Project: Crop-Weed Segmentation and Stem Detection.*
 2. [Fernanda Custodio Pereira do Carmo](https://www.linkedin.com/in/fernanda-custodio/), MSc student and intern with Hydro Quebec.
 3. [Loïc Prenevost](https://www.linkedin.com/in/loïc-prenevost-58237b80/), MSc student and intern with Lux Aerobot. *Project: Machine-learning driven real-time risk analysis.*
-4. [Daniel Galarreta-Piquette](https://www.linkedin.com/in/daniel-galarreta-piquette-5004bb159/), MSc student and intern with ESDC (Employment and Social Development Canada). *Handwritten text recognition for automated form processing*
+4. [Daniel Galarreta-Piquette](https://www.linkedin.com/in/daniel-galarreta-piquette-5004bb159/), MSc student and intern with ESDC (Employment and Social Development Canada). *Project: Handwritten text recognition for automated form processing*
 
 
 # 2020
