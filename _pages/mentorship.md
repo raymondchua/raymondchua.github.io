@@ -18,6 +18,10 @@ nav_order: 6
 7. [Prishruit Punia](https://www.linkedin.com/in/prishruit-punia/), MSc student and intern with Desjardins. *Project: Continual Learning for Recommender Systems.*
 8. [Kasetty Tejas](https://www.linkedin.com/in/tejaskasetty/), MSc student and intern with IntellSport.
 9. [Kairavi Bajaj](https://www.linkedin.com/in/kairavibajaj/), MSc student and intern with BusPas Inc. *Project: An Edge Computing Solution For Real Time Anomaly Detection And Passenger Counting At Bus Stops.*
+10. [Ma Rui Ze](https://www.linkedin.com/in/ruizema/), MSc student and intern with Nuance. *Project: Data Generation and Personal Information Writing with GPT.*
+11. [Razaghi Alireza](https://www.linkedin.com/in/alireza-razaghi/), MSc student and intern with Ubisoft. *Project: Adapting the Training of a Transformer-Based Toxicity Detection Model with Continual Learning.*
+12. [Kasetty Tejas](https://www.linkedin.com/in/tejaskasetty/), MSc student and intern with IntellSport. *Project: Human Activity Recognition using Deep Learning.*
+
 
 # 2022
 1. [Georges Abou-Rjeili](https://www.linkedin.com/in/georges-abou-rjeili/), MSc student and intern with Jumio. *Project: Object Occlusion Detection In Documents*
