@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-09-28 
-inline: true
+inline: false
 related_posts: false
 ---
 
