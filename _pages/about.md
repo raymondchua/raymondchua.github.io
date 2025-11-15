@@ -23,6 +23,6 @@ I am increasingly interested in mechanistic interpretability, using techniques i
 encode and transform information over time. I’m expected to graduate in Fall 2025 and am seeking opportunities to study and design learning systems that bridge theory (reinforcement learning), scalable models (foundation and language models), and 
 real-world decision-making (robotics, embodied AI, and autonomous systems).
 
-Beyond research, I’m passionate about improving AI capabilities through [academic–industry partnerships]((https://raymondchua.github.io/mentorship/), where I mentor students from McGill, UdeM, and Mila as they tackle real-world challenges with companies seeking to integrate machine learning into 
+Beyond research, I’m passionate about improving AI capabilities through <a href='https://raymondchua.github.io/mentorship/'>academic–industry partnerships</a>, where I mentor students from McGill, UdeM, and Mila as they tackle real-world challenges with companies seeking to integrate machine learning into 
 their products and pipelines. During my free time, I enjoy pushing both my intellectual and physical abilities through triathlon, which continues to teach me about endurance, balance, and growth.
 
