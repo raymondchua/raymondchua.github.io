@@ -1,10 +1,9 @@
 ---
 layout: post
-date: 2025-1-30
-inline: false
+date: 2025-3-10
+inline: true
 related_posts: false
 ---
 
-Invited by <a href='https://www.mcgill.ca/psychology/paul-masset'>Prof. Paul Masset</a> to give a talk on my research on Successor Features and Continual Reinforcement Learning at 
-his lab in McGill University, Montréal. The talk was well-received, and I had the opportunity to discuss my work with several members of his lab. 
-Look forward to future collaborations with the lab and hope to visit again soon! 
+Invited by the <a href='https://www.integrateandfire.com'>Integrate and Fire Seminar organisers</a> at McGill University to share my perspective on the discussion theme of the night, "How Intelligent is AI?"
+Through sharing my own work on reinforcement learning, I presented some evidence which showed that agents learned solely on rewards can obtain some form of intelligence.

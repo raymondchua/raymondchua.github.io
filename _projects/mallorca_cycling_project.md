@@ -244,7 +244,7 @@ cyclists tackling Sa Calobra.
 
 After the grueling climb, the summit offered more than just relief; it delivered a sense of triumph. To celebrate, I 
 stopped at a nearby cycling café, newly opened by Emma and Javi at 
-<a href='https://https://www.instagram.com/sarutaverda/?hl=en'>Sa Ruta Verda.</a>  Their passion for cycling and the friendly 
+<a href='https://www.instagram.com/sarutaverda/?hl=en'>Sa Ruta Verda.</a>  Their passion for cycling and the friendly 
 atmosphere they created was a perfect end to an intense ride. The cappuccino there wasn't just good; it was a reward, 
 each sip a celebration of the climb conquered.
 

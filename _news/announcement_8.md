@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-10-20 
+date: 2025-11-12
 inline: true
 related_posts: false
 ---
-Gave a talk titled “Brain-Inspired Reinforcement Learning Agents” to visiting researchers from the Lamarr Institute for Machine Learning and Artificial Intelligence (Germany) at Mila – Quebec AI Institute, Montréal, Canada.
+Met up with the team at <a href='https://www.primamente.com'>Prima Mente</a> which is neuroscience-AI startup in London, UK, focusing on understanding the brain and advancing potential treatments for neurological and neurodegenerative diseases.

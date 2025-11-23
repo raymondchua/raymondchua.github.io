@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-11-12
+date: 2025-11-13
 inline: true
 related_posts: false
 ---
-Met up with the team at <a href='https://www.primamente.com'>Prima Mente</a> which is neuroscience-AI startup in London, UK, focusing on understanding the brain and advancing potential treatments for neurological and neurodegenerative diseases.
+Visited <a href='https://neuralml.github.io'>Prof. Rui Ponte Costa</a>'s lab at University of Oxford, where I gave a talk on our work titled "Brain-Inspired Continual Reinforcement Learning Agents." Rui was my master thesis supervisor, and it was wonderful to reconnect with him and his lab again!
