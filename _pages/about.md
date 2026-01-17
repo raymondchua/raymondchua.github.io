@@ -15,7 +15,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-*Last updated 25 Nov 2025.*
+*Last updated 17 Jan 2026.*
 
 I am a final-year PhD candidate at McGill University and Mila, supervised by <a href='https://www.cs.mcgill.ca/~dprecup/'>Doina Precup</a> and <a href='https://linclab.mila.quebec/team/blake'>Blake Richards</a>. 
 My research bridges machine learning and computational neuroscience, exploring how neural mechanisms of representation and memory can inspire more adaptive and continual learning in artificial agents. Building on this foundation, 
