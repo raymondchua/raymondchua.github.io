@@ -17,6 +17,11 @@ social: true # includes social icons at the bottom of the page
 ---
 *Last updated 25 Feb 2026.*
 
+<figure style="text-align: center;">
+<img src="/../assets/img/13.jpg" alt="PhD defence" width="60%" height="60%">
+<figcaption>A proud and grateful moment with my advisors and examiners after successfully defending my PhD.</figcaption>
+</figure>
+
 I recently defended my PhD in Computer Science at **McGill University**, conducted at **Mila – Quebec Artificial Intelligence Institute**, where I investigated how principles from neuroscience — particularly *predictive representations* and *memory consolidation* — can inform the design of adaptive, continually learning AI systems.
 
 My doctoral work focused on addressing the *plasticity–stability dilemma* in reinforcement learning through structured representations and multi-timescale learning mechanisms.
