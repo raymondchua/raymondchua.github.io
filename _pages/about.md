@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 <figure style="text-align: center;">
 <img src="/../assets/img/13.jpg" alt="PhD defence" width="60%" height="60%">
-<figcaption>A moment with my advisors and examiners after successfully defending my PhD.</figcaption>
+<figcaption style="text-align: left;">A moment with my advisors and examiners after successfully defending my PhD.</figcaption>
 </figure>
 
 I recently defended my PhD in Computer Science at **McGill University**, conducted at **Mila – Quebec Artificial Intelligence Institute**, 
