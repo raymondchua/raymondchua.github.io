@@ -15,7 +15,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-*Last updated 19 May 2026.*
+*Last updated 7 June 2026.*
 
 <figure style="text-align: center;">
 <img src="/../assets/img/13.jpg" alt="PhD defence" width="60%" height="60%">
