@@ -2,7 +2,7 @@
 layout: page
 title: Learning in continuously changing environments
 description: Rethinking stability and plasticity in continual reinforcement learning
-img: assets/img/12.jpg
+img: assets/img/1.jpg
 importance: 1
 category: work
 ---
