@@ -144,7 +144,7 @@ Across the different embodiments, we consistently observed that longer-timescale
 continual environmental drift.
 
 <figure style="text-align: center;">
-<img src="/../assets/img/project_balancing_plasticity_stability/humanoid_timescales.png" alt="Figure 4: Number of consolidation variables analysis." width="75%" height="75%">
+<img src="/../assets/img/project_balancing_plasticity_stability/humanoid_timescales.png" alt="Figure 4: Number of consolidation variables analysis." width="50%" height="50%">
 <figcaption style="text-align: left; margin-top: 10px;">Figure 4: Number of consolidation variables analysis.</figcaption>
 </figure>
 
@@ -174,7 +174,7 @@ parameters. To test this possibility, we scaled the baseline models so that thei
 consolidation-based models.
 
 <figure style="text-align: center;">
-<img src="/../assets/img/project_balancing_plasticity_stability/humanoid_capacity_scaling.png" alt="Figure 6: Capacity analysis." width="75%" height="75%">
+<img src="/../assets/img/project_balancing_plasticity_stability/humanoid_capacity_scaling.png" alt="Figure 6: Capacity analysis." width="50%" height="50%">
 <figcaption style="text-align: left; margin-top: 10px;">Figure 6: Capacity analysis using Humanoid. Increasing the parameter
 count of TD3 and its variants did not consistently improve performance compared to SF + SC (star), suggesting the 
 contribution of consolidating SFs beyond network capacity scaling alone</figcaption>
