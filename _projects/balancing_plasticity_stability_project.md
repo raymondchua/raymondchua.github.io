@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Learning in continuously changing environments
-description: Rethinking stability and plasticity in continual reinforcement learning
+description: Rethinking stability and plasticity in continual reinforcement learning. This project was accepted as a 
+  poster at the main conference of ICML 2026.
 img: assets/img/1.jpg
 importance: 1
 category: work
