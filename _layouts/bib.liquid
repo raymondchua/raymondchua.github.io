@@ -245,11 +245,11 @@
         {% endif %}
       {% endif %}
       {% if entry.website %}
-        <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+        <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
       {% elsif entry.url %}
         <!-- Some BibTeX entries use the `url` field instead of `website`.
              Fall back to `url` so links show up when authors put their link in `url`. -->
-        <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+        <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}
