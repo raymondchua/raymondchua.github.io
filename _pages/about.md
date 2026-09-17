@@ -18,8 +18,8 @@ social: true # includes social icons at the bottom of the page
 *Last updated 16 Sep 2026.*
 
 <figure style="text-align: center;">
-<img src="/../assets/img/13.jpg" alt="PhD defence" width="60%" height="60%">
-<figcaption>A moment with my advisors and examiners after my PhD defence.</figcaption>
+<img src="/../assets/img/14.jpg" alt="ICML 2026" width="60%" height="60%">
+<figcaption>Presenting our work on Fast & Slow Successor Features at ICML 2026 in Seoul.</figcaption>
 </figure>
 
 I am an incoming Postdoctoral Research Scientist at Columbia University's <a href="https://zuckermaninstitute.columbia.edu">Zuckerman Institute and Center for Theoretical Neuroscience</a> 
