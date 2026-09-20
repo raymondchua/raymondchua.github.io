@@ -17,6 +17,9 @@ social: true # includes social icons at the bottom of the page
 ---
 *Last updated 16 Sep 2026.*
 
+# How do artificial and biological systems learn, remember, and adapt over time?
+*I study the computational principles underlying adaptive learning and memory, with a current focus on predictive representations, continual learning, and mechanisms operating across multiple timescales.*
+
 <figure style="text-align: center;">
 <img src="/../assets/img/14.jpg" alt="ICML 2026" width="60%" height="60%">
 <figcaption>Presenting our work on Fast & Slow Successor Features at ICML 2026 in Seoul.</figcaption>

@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Raymond
 # middle_name: 
-last_name: Chua
+last_name: Chua, PhD
 email: ray_dot_r_dot_chua_at_gmail_dot_com (please replace ‘dot’ with '.' and ‘at’ with '@') with no spaces.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
